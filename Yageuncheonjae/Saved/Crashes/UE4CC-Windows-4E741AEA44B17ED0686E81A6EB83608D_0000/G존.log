@@ -1,0 +1,427 @@
+﻿Log file open, 08/26/17 21:31:17
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: G존
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(675700382) SRandInit(675700382).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.147653
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: 
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.08.26-12.31.18:099][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.26-12.31.18:099][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.08.26-12.31.18:111][  0]LogInit: Computer: 20206나성식
+[2017.08.26-12.31.18:111][  0]LogInit: User: dsm2016
+[2017.08.26-12.31.18:111][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.08.26-12.31.18:111][  0]LogInit: High frequency timer resolution =2.338337 MHz
+[2017.08.26-12.31.18:111][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.08.26-12.31.18:111][  0]LogMemory: Platform Memory Stats for Windows
+[2017.08.26-12.31.18:111][  0]LogMemory: Process Physical Memory: 279.93 MB used, 279.93 MB peak
+[2017.08.26-12.31.18:111][  0]LogMemory: Process Virtual Memory: 275.83 MB used, 275.83 MB peak
+[2017.08.26-12.31.18:111][  0]LogMemory: Physical Memory: 4531.91 MB used,  11743.20 MB free, 16275.11 MB total
+[2017.08.26-12.31.18:111][  0]LogMemory: Virtual Memory: 666.38 MB used,  11743.20 MB free, 134217728.00 MB total
+[2017.08.26-12.31.18:303][  0]LogInit: Using OS detected language (ko-KR).
+[2017.08.26-12.31.18:303][  0]LogInit: Using OS detected locale (ko-KR).
+[2017.08.26-12.31.18:311][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2017.08.26-12.31.19:107][  0]LogD3D11RHI: D3D11 adapters:
+[2017.08.26-12.31.19:115][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2017.08.26-12.31.19:115][  0]LogD3D11RHI:       128/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.08.26-12.31.19:772][  0]LogD3D11RHI:    1. 'AMD Radeon R5 M255' (Feature Level 11_0)
+[2017.08.26-12.31.19:772][  0]LogD3D11RHI:       2039/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2017.08.26-12.31.19:775][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.08.26-12.31.19:775][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.08.26-12.31.19:775][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2017.08.26-12.31.19:787][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.08.26-12.31.19:787][  0]LogD3D11RHI:     GPU DeviceId: 0x6901 (for the marketing name, search the web for "GPU Device Id")
+[2017.08.26-12.31.19:787][  0]LogWindows: EnumDisplayDevices:
+[2017.08.26-12.31.19:787][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2017.08.26-12.31.19:790][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.08.26-12.31.19:791][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.08.26-12.31.19:792][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.08.26-12.31.19:792][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R5 M255
+[2017.08.26-12.31.19:792][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.08.26-12.31.19:792][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.08.26-12.31.19:792][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.08.26-12.31.19:838][  0]LogD3D11RHI: Async texture creation enabled
+[2017.08.26-12.31.19:852][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.08.26-12.31.19:852][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Intermediate/Shaders/WorkingDirectory/27628/).
+[2017.08.26-12.31.19:853][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dsm2016/AppData/Local/Temp/UnrealShaderWorkingDir/47673F4F46BF1ADBEFF6DDB1706060FF/'.
+[2017.08.26-12.31.19:853][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.08.26-12.31.21:153][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.08.26-12.31.21:218][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.08.26-12.31.21:284][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.08.26-12.31.21:355][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.08.26-12.31.21:421][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.08.26-12.31.21:485][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.08.26-12.31.21:556][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.08.26-12.31.21:630][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.08.26-12.31.21:682][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.08.26-12.31.21:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.08.26-12.31.21:811][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.08.26-12.31.21:874][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.08.26-12.31.21:935][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.08.26-12.31.21:999][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.08.26-12.31.22:061][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.08.26-12.31.22:182][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.08.26-12.31.22:182][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.08.26-12.31.22:231][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.08.26-12.31.22:341][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.08.26-12.31.22:374][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.08.26-12.31.22:435][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.08.26-12.31.22:501][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.08.26-12.31.22:588][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.08.26-12.31.22:671][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.08.26-12.31.22:671][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.08.26-12.31.23:254][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.08.26-12.31.23:379][  0]LogDerivedDataCache: Loaded boot cache 0.12s 93MB C:/Users/dsm2016/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.26-12.31.23:379][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dsm2016/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.08.26-12.31.23:379][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.08.26-12.31.23:379][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.08.26-12.31.23:379][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.08.26-12.31.23:379][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.08.26-12.31.23:400][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.08.26-12.31.23:413][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dsm2016/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.08.26-12.31.23:429][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.08.26-12.31.23:429][  0]LogSlate: Using Freetype 2.6.0
+[2017.08.26-12.31.23:430][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.26-12.31.23:430][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.26-12.31.23:821][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2017.08.26-12.31.24:016][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.26-12.31.24:564][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.08.26-12.31.24:626][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.08.26-12.31.24:626][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.08.26-12.31.24:626][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.08.26-12.31.24:626][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.08.26-12.31.24:626][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.08.26-12.31.24:667][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.08.26-12.31.25:348][  0]LogNetVersion: G존 , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2015947967)
+[2017.08.26-12.31.25:693][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.094716 seconds
+[2017.08.26-12.31.25:703][  0]LogUObjectArray: 35831 objects as part of root set at end of initial load.
+[2017.08.26-12.31.25:703][  0]LogUObjectAllocator: 7531200 out of 0 bytes used by permanent object pool.
+[2017.08.26-12.31.25:704][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.08.26-12.31.25:802][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.08.26-12.31.30:092][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.08.26-12.31.30:136][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.08.26-12.31.30:983][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.08.26-12.31.31:502][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.26-12.31.31:502][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.26-12.31.31:564][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.26-12.31.31:624][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.26-12.31.32:454][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.08.26-12.31.32:831][  0]LogOcInput: OculusInput pre-init called
+[2017.08.26-12.31.33:181][  0]LogEngine: Initializing Engine...
+[2017.08.26-12.31.33:184][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.08.26-12.31.33:450][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.08.26-12.31.33:450][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.08.26-12.31.33:630][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.08.26-12.31.33:652][  0]LogInit: XAudio2 using 'Speakers/Headphones(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.26-12.31.33:882][  0]LogInit: FAudioDevice initialized.
+[2017.08.26-12.31.34:153][  0]LogDerivedDataCache: Saved boot cache 0.27s 93MB C:/Users/dsm2016/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.26-12.31.34:161][  0]LogInit: Texture streaming: Enabled
+[2017.08.26-12.31.34:289][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.08.26-12.31.34:289][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={E13E8219-4ECE-7B48-4ECD-6EA52AE9B59F}
+[2017.08.26-12.31.34:566][  0]LogInit: Transaction tracking system initialized
+[2017.08.26-12.31.34:978][  0]BlueprintLog: New page: 에디터 로드
+[2017.08.26-12.31.36:109][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2017.08.26-12.31.36:980][  0]LogConsoleResponse: Display: 
+[2017.08.26-12.31.37:233][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.08.26-12.31.37:233][  0]LogCook: Display: Mobile HDR setting 1
+[2017.08.26-12.31.37:233][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.08.26-12.31.38:140][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Content/' took 0.02s
+[2017.08.26-12.31.38:603][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.26-12.31.38:604][  0]Cmd: MAP LOAD FILE="../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.26-12.31.38:604][  0]LightingResults: New page: 라이팅 빌드
+[2017.08.26-12.31.38:658][  0]MapCheck: New page: 맵 체크
+[2017.08.26-12.31.38:658][  0]LightingResults: New page: 라이팅 빌드
+[2017.08.26-12.31.39:409][  0]LogAIModule: Creating AISystem for world BOSS_1
+[2017.08.26-12.31.39:415][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.26-12.31.39:440][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.26-12.31.39:555][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 114.803ms.
+[2017.08.26-12.31.39:555][  0]LogFileHelpers: Loading map 'BOSS_1' took 0.952
+[2017.08.26-12.31.39:635][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2017.08.26-12.31.39:764][  0]LogCollectionManager: Loaded 0 collections in 0.001524 seconds
+[2017.08.26-12.31.39:864][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Saved/Collections/' took 0.01s
+[2017.08.26-12.31.39:864][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Content/Developers/dsm2016/Collections/' took 0.01s
+[2017.08.26-12.31.39:864][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Content/Collections/' took 0.01s
+[2017.08.26-12.31.39:864][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.08.26-12.31.39:875][  0]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2386 classes and 500 folders.
+[2017.08.26-12.31.39:960][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.08.26-12.31.40:062][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.08.26-12.31.40:116][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.08.26-12.31.40:243][  0]LogSlate: Took 0.001629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.26-12.31.40:249][  0]LogSlate: Took 0.005430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2017.08.26-12.31.40:251][  0]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.08.26-12.31.40:260][  0]LogSlate: Took 0.001378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.08.26-12.31.40:405][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2017.08.26-12.31.40:692][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.08.26-12.31.40:692][  0]LogLoad: (Engine Initialization) Total time: 24.55 seconds
+[2017.08.26-12.31.40:692][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.08.26-12.31.40:692][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.08.26-12.31.40:731][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.08.26-12.31.40:751][  0]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.26-12.31.40:834][  1]LogAssetRegistry: Asset discovery search completed in 17.0352 seconds
+[2017.08.26-12.31.40:836][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.08.26-12.31.40:836][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2017.08.26-12.31.41:774][ 30]LogSlate: Took 0.000470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.26-12.33.25:251][134]Cmd: DELETE
+[2017.08.26-12.33.25:251][134]Cmd: ACTOR DELETE
+[2017.08.26-12.33.25:252][134]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.08.26-12.33.25:281][134]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2017.08.26-12.33.32:673][363]LogSlate: Took 0.000378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.26-12.33.32:884][363]LogSavePackage: Save=58.42ms
+[2017.08.26-12.33.32:884][363]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BOSS_1D3C943624EA34B728B2EE6B340AC5909.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap'
+[2017.08.26-12.33.32:891][363]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap
+[2017.08.26-12.33.32:918][363]LogFileHelpers: Saving map 'BOSS_1' took 0.228
+[2017.08.26-12.34.04:671][488]LogSavePackage: Save=58.35ms
+[2017.08.26-12.34.04:671][488]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BOSS_183D72FB44FC0ECF6A1A500BE0B28F365.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap'
+[2017.08.26-12.34.04:677][488]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap
+[2017.08.26-12.34.04:714][488]LogFileHelpers: Saving map 'BOSS_1' took 0.232
+[2017.08.26-12.34.22:925][101]LogSavePackage: Save=59.68ms
+[2017.08.26-12.34.22:925][101]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BOSS_1403F6B4D42A13822979A02909F7748BD.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap'
+[2017.08.26-12.34.22:931][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap
+[2017.08.26-12.34.22:966][101]LogFileHelpers: Saving map 'BOSS_1' took 0.230
+[2017.08.26-12.34.25:597][172]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 113 classes and 0 folders.
+[2017.08.26-12.34.26:336][172]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.26-12.34.26:412][172]LogSlate: Took 0.000411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.08.26-12.34.29:951][327]LogRenderer: Reallocating scene render targets to support 1208x744 Format 10 NumSamples 1 (Frame:1).
+[2017.08.26-12.34.37:211][675]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.08.26-12.34.54:327][683]LogSavePackage: Save=62.18ms
+[2017.08.26-12.34.54:327][683]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BOSS_1C3729BFB4D0BAFF06B7414900F6CD55E.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap'
+[2017.08.26-12.34.54:334][683]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap
+[2017.08.26-12.34.54:422][683]LogFileHelpers: Saving map 'BOSS_1' took 0.305
+[2017.08.26-12.34.54:496][683]LogSavePackage: Save=55.34ms
+[2017.08.26-12.34.54:496][683]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Stage_1_Boss769F720346F35A38A96F82B04B5638F2.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset'
+[2017.08.26-12.34.54:503][683]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset
+[2017.08.26-12.35.03:776][ 42]LogSavePackage: Save=59.81ms
+[2017.08.26-12.35.03:777][ 42]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BOSS_140FC10D149BEE6BCDC525086A9E88F06.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap'
+[2017.08.26-12.35.03:783][ 42]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap
+[2017.08.26-12.35.03:816][ 42]LogFileHelpers: Saving map 'BOSS_1' took 0.248
+[2017.08.26-12.35.04:315][ 62]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.26-12.35.04:375][ 62]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.35.04:375][ 62]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2017.08.26-12.35.04:378][ 62]LogPlayLevel: [PlayLevel] Compiling Stage_1_Boss before play...
+[2017.08.26-12.35.04:804][ 62]LogPlayLevel: PlayLevel: Blueprint regeneration took 429 ms (1 blueprints)
+[2017.08.26-12.35.04:805][ 62]PIE: New page: PIE 세션: BOSS_1 (2017. 8. 27. 오전 6:35:04)
+[2017.08.26-12.35.04:805][ 62]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1
+[2017.08.26-12.35.04:808][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002645s)
+[2017.08.26-12.35.04:809][ 62]LogAIModule: Creating AISystem for world BOSS_1
+[2017.08.26-12.35.04:809][ 62]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2017.08.26-12.35.04:809][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1.BOSS_1 (0.004349s)
+[2017.08.26-12.35.04:849][ 62]LogInit: XAudio2 using 'Speakers/Headphones(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.26-12.35.04:898][ 62]LogInit: FAudioDevice initialized.
+[2017.08.26-12.35.04:946][ 62]LogLoad: Game class is 'Stage_1_Boss_GameMode_C'
+[2017.08.26-12.35.04:948][ 62]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1.BOSS_1 up for play (max tick rate 60) at 2017.08.26-21.35.04
+[2017.08.26-12.35.04:949][ 62]LogWorld: Bringing up level for play took: 0.001854
+[2017.08.26-12.35.04:994][ 62]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.08.26-12.35.04:996][ 62]PIE: /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1 에 대한 에디터에서 플레이 시작 시간: 0.327
+[2017.08.26-12.35.04:997][ 62]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.35.07:160][149]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.35.07:311][149]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.35.18:988][759]LogSavePackage: Save=63.74ms
+[2017.08.26-12.35.18:988][759]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BOSS_1B0B3C65A48F13A9DFE39A49F291F4CA5.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap'
+[2017.08.26-12.35.18:995][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap
+[2017.08.26-12.35.19:029][759]LogFileHelpers: Saving map 'BOSS_1' took 0.244
+[2017.08.26-12.35.19:103][759]LogSavePackage: Save=55.01ms
+[2017.08.26-12.35.19:103][759]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Stage_1_Boss02F61A64439FB440786074AE7643B676.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset'
+[2017.08.26-12.35.19:110][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset
+[2017.08.26-12.35.25:983][ 49]LogEditorViewport: Clicking on Actor (LMB): Stage_1_Boss_C (Stage_1_Boss)
+[2017.08.26-12.35.29:244][149]LogSavePackage: Save=61.48ms
+[2017.08.26-12.35.29:244][149]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BOSS_1BB040683436876001EE2D9995D4F244A.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap'
+[2017.08.26-12.35.29:250][149]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap
+[2017.08.26-12.35.29:280][149]LogFileHelpers: Saving map 'BOSS_1' took 0.245
+[2017.08.26-12.35.30:036][176]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.26-12.35.30:053][176]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.35.30:053][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.26-12.35.30:053][176]PIE: New page: PIE 세션: BOSS_1 (2017. 8. 27. 오전 6:35:30)
+[2017.08.26-12.35.30:053][176]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1
+[2017.08.26-12.35.30:056][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002138s)
+[2017.08.26-12.35.30:056][176]LogAIModule: Creating AISystem for world BOSS_1
+[2017.08.26-12.35.30:056][176]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2017.08.26-12.35.30:056][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1.BOSS_1 (0.003038s)
+[2017.08.26-12.35.30:097][176]LogInit: XAudio2 using 'Speakers/Headphones(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.26-12.35.30:145][176]LogInit: FAudioDevice initialized.
+[2017.08.26-12.35.30:181][176]LogLoad: Game class is 'Stage_1_Boss_GameMode_C'
+[2017.08.26-12.35.30:183][176]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1.BOSS_1 up for play (max tick rate 60) at 2017.08.26-21.35.30
+[2017.08.26-12.35.30:183][176]LogWorld: Bringing up level for play took: 0.001459
+[2017.08.26-12.35.30:185][176]PIE: /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1 에 대한 에디터에서 플레이 시작 시간: -0.484
+[2017.08.26-12.35.30:186][176]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.35.32:454][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.35.32:572][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.35.38:724][468]LogSavePackage: Save=69.44ms
+[2017.08.26-12.35.38:724][468]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BOSS_138CB28A14C2A01E78B292AAF6D4C8191.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap'
+[2017.08.26-12.35.38:731][468]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap
+[2017.08.26-12.35.38:769][468]LogFileHelpers: Saving map 'BOSS_1' took 0.254
+[2017.08.26-12.35.38:840][468]LogSavePackage: Save=55.98ms
+[2017.08.26-12.35.38:840][468]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Stage_1_BossAFA586194463086EE0C7C3B4DE1E5A46.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset'
+[2017.08.26-12.35.38:849][468]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset
+[2017.08.26-12.35.42:271][571]LogEditorViewport: Clicking on Actor (LMB): Stage_1_Boss_C (Stage_1_Boss)
+[2017.08.26-12.35.51:379][866]LogSavePackage: Save=60.08ms
+[2017.08.26-12.35.51:379][866]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BOSS_1428F0BAF453759A3A8674EB5736E3E9D.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap'
+[2017.08.26-12.35.51:386][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap
+[2017.08.26-12.35.51:421][866]LogFileHelpers: Saving map 'BOSS_1' took 0.242
+[2017.08.26-12.35.52:766][913]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.26-12.35.52:784][913]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.35.52:784][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.26-12.35.52:784][913]PIE: New page: PIE 세션: BOSS_1 (2017. 8. 27. 오전 6:35:52)
+[2017.08.26-12.35.52:784][913]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1
+[2017.08.26-12.35.52:787][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002129s)
+[2017.08.26-12.35.52:787][913]LogAIModule: Creating AISystem for world BOSS_1
+[2017.08.26-12.35.52:787][913]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2017.08.26-12.35.52:788][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1.BOSS_1 (0.003035s)
+[2017.08.26-12.35.52:823][913]LogInit: XAudio2 using 'Speakers/Headphones(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.26-12.35.52:871][913]LogInit: FAudioDevice initialized.
+[2017.08.26-12.35.52:906][913]LogLoad: Game class is 'Stage_1_Boss_GameMode_C'
+[2017.08.26-12.35.52:908][913]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1.BOSS_1 up for play (max tick rate 60) at 2017.08.26-21.35.52
+[2017.08.26-12.35.52:908][913]LogWorld: Bringing up level for play took: 0.001544
+[2017.08.26-12.35.52:910][913]PIE: /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1 에 대한 에디터에서 플레이 시작 시간: 0.241
+[2017.08.26-12.35.52:910][913]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.36.31:505][466]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.36.31:629][466]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.36.56:232][347]LogSavePackage: Save=160.04ms
+[2017.08.26-12.36.56:232][347]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Stage_1_Boss_CharacterF074377546E83567B38DD9A568B707B0.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss_Character.uasset'
+[2017.08.26-12.36.56:238][347]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss_Character.uasset
+[2017.08.26-12.36.57:515][393]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.26-12.36.57:541][393]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.36.57:541][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.26-12.36.57:541][393]PIE: New page: PIE 세션: BOSS_1 (2017. 8. 27. 오전 6:36:57)
+[2017.08.26-12.36.57:541][393]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1
+[2017.08.26-12.36.57:544][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002696s)
+[2017.08.26-12.36.57:545][393]LogAIModule: Creating AISystem for world BOSS_1
+[2017.08.26-12.36.57:545][393]LogPlayLevel: PIE: World Init took: (0.001218s)
+[2017.08.26-12.36.57:545][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1.BOSS_1 (0.004228s)
+[2017.08.26-12.36.57:585][393]LogInit: XAudio2 using 'Speakers/Headphones(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.26-12.36.57:646][393]LogInit: FAudioDevice initialized.
+[2017.08.26-12.36.57:697][393]LogLoad: Game class is 'Stage_1_Boss_GameMode_C'
+[2017.08.26-12.36.57:699][393]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1.BOSS_1 up for play (max tick rate 60) at 2017.08.26-21.36.57
+[2017.08.26-12.36.57:699][393]LogWorld: Bringing up level for play took: 0.001952
+[2017.08.26-12.36.57:704][393]PIE: /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1 에 대한 에디터에서 플레이 시작 시간: 1.035
+[2017.08.26-12.36.57:705][393]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.36.57:732][393]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.08.26-12.36.59:028][438]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.36.59:176][438]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.37.02:119][528]LogSavePackage: Save=131.14ms
+[2017.08.26-12.37.02:119][528]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Stage_1_Boss_Character04453D0D4439F23BF159EBB5610D4CBE.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss_Character.uasset'
+[2017.08.26-12.37.02:126][528]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss_Character.uasset
+[2017.08.26-12.37.03:234][567]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.26-12.37.03:260][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.37.03:260][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.26-12.37.03:260][567]PIE: New page: PIE 세션: BOSS_1 (2017. 8. 27. 오전 6:37:03)
+[2017.08.26-12.37.03:260][567]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1
+[2017.08.26-12.37.03:263][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002967s)
+[2017.08.26-12.37.03:264][567]LogAIModule: Creating AISystem for world BOSS_1
+[2017.08.26-12.37.03:264][567]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2017.08.26-12.37.03:265][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1.BOSS_1 (0.004713s)
+[2017.08.26-12.37.03:321][567]LogInit: XAudio2 using 'Speakers/Headphones(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.26-12.37.03:372][567]LogInit: FAudioDevice initialized.
+[2017.08.26-12.37.03:431][567]LogLoad: Game class is 'Stage_1_Boss_GameMode_C'
+[2017.08.26-12.37.03:433][567]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1.BOSS_1 up for play (max tick rate 60) at 2017.08.26-21.37.03
+[2017.08.26-12.37.03:433][567]LogWorld: Bringing up level for play took: 0.001548
+[2017.08.26-12.37.03:437][567]PIE: /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1 에 대한 에디터에서 플레이 시작 시간: 0.768
+[2017.08.26-12.37.03:438][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.37.43:986][890]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.37.44:138][890]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.BOSS_1:PersistentLevel.BOSS_1'
+[2017.08.26-12.37.52:650][186]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:289 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2017.08.26-12.37.52:653][186]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)

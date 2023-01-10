@@ -1,0 +1,294 @@
+﻿Log file open, 08/25/17 17:17:59
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: G존
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-671584571) SRandInit(-671584571).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.214360
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.08.25-08.18.00:773][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.25-08.18.00:773][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.08.25-08.18.00:792][  0]LogInit: Computer: 20206나성식
+[2017.08.25-08.18.00:792][  0]LogInit: User: dsm2016
+[2017.08.25-08.18.00:792][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.08.25-08.18.00:792][  0]LogInit: High frequency timer resolution =2.338337 MHz
+[2017.08.25-08.18.00:793][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.08.25-08.18.00:793][  0]LogMemory: Platform Memory Stats for Windows
+[2017.08.25-08.18.00:793][  0]LogMemory: Process Physical Memory: 278.94 MB used, 278.94 MB peak
+[2017.08.25-08.18.00:793][  0]LogMemory: Process Virtual Memory: 275.80 MB used, 275.80 MB peak
+[2017.08.25-08.18.00:793][  0]LogMemory: Physical Memory: 5366.00 MB used,  10909.11 MB free, 16275.11 MB total
+[2017.08.25-08.18.00:793][  0]LogMemory: Virtual Memory: 666.38 MB used,  10909.11 MB free, 134217728.00 MB total
+[2017.08.25-08.18.01:069][  0]LogInit: Using OS detected language (ko-KR).
+[2017.08.25-08.18.01:069][  0]LogInit: Using OS detected locale (ko-KR).
+[2017.08.25-08.18.01:078][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2017.08.25-08.18.02:173][  0]LogD3D11RHI: D3D11 adapters:
+[2017.08.25-08.18.02:185][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2017.08.25-08.18.02:185][  0]LogD3D11RHI:       128/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.08.25-08.18.02:865][  0]LogD3D11RHI:    1. 'AMD Radeon R5 M255' (Feature Level 11_0)
+[2017.08.25-08.18.02:865][  0]LogD3D11RHI:       2039/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2017.08.25-08.18.02:869][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.08.25-08.18.02:869][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.08.25-08.18.02:869][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2017.08.25-08.18.02:882][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.08.25-08.18.02:882][  0]LogD3D11RHI:     GPU DeviceId: 0x6901 (for the marketing name, search the web for "GPU Device Id")
+[2017.08.25-08.18.02:882][  0]LogWindows: EnumDisplayDevices:
+[2017.08.25-08.18.02:883][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2017.08.25-08.18.02:885][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.08.25-08.18.02:887][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.08.25-08.18.02:889][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.08.25-08.18.02:889][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R5 M255
+[2017.08.25-08.18.02:889][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.08.25-08.18.02:889][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.08.25-08.18.02:889][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.08.25-08.18.02:962][  0]LogD3D11RHI: Async texture creation enabled
+[2017.08.25-08.18.02:979][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.08.25-08.18.02:980][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Intermediate/Shaders/WorkingDirectory/19680/).
+[2017.08.25-08.18.02:980][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dsm2016/AppData/Local/Temp/UnrealShaderWorkingDir/0B35486C46CB1CBBF399B6B682720A5A/'.
+[2017.08.25-08.18.02:981][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.08.25-08.18.04:903][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.08.25-08.18.05:015][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.08.25-08.18.05:123][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.08.25-08.18.05:226][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.08.25-08.18.05:325][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.08.25-08.18.05:419][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.08.25-08.18.05:520][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.08.25-08.18.05:628][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.08.25-08.18.05:720][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.08.25-08.18.05:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.08.25-08.18.05:921][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.08.25-08.18.06:025][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.08.25-08.18.06:132][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.08.25-08.18.06:232][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.08.25-08.18.06:329][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.08.25-08.18.06:532][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.08.25-08.18.06:532][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.08.25-08.18.06:617][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.08.25-08.18.06:786][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.08.25-08.18.06:847][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.08.25-08.18.06:961][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.08.25-08.18.07:069][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.08.25-08.18.07:175][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.08.25-08.18.07:283][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.08.25-08.18.07:283][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.08.25-08.18.08:269][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.08.25-08.18.08:442][  0]LogDerivedDataCache: Loaded boot cache 0.17s 93MB C:/Users/dsm2016/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.25-08.18.08:442][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dsm2016/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.08.25-08.18.08:442][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.08.25-08.18.08:442][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.08.25-08.18.08:442][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.08.25-08.18.08:442][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.08.25-08.18.08:485][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.08.25-08.18.08:504][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dsm2016/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.08.25-08.18.08:527][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.08.25-08.18.08:528][  0]LogSlate: Using Freetype 2.6.0
+[2017.08.25-08.18.08:529][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.25-08.18.08:529][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.25-08.18.09:494][  0]LogAssetRegistry: FAssetRegistry took 0.0376 seconds to start up
+[2017.08.25-08.18.10:066][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.25-08.18.10:540][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.08.25-08.18.11:238][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.08.25-08.18.11:329][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.08.25-08.18.11:329][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.08.25-08.18.11:329][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.08.25-08.18.11:329][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.08.25-08.18.11:329][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.08.25-08.18.12:045][  0]LogNetVersion: G존 , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2015947967)
+[2017.08.25-08.18.12:458][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.105686 seconds
+[2017.08.25-08.18.12:468][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.08.25-08.18.12:468][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.08.25-08.18.12:469][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.08.25-08.18.12:570][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.08.25-08.18.17:843][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.08.25-08.18.17:908][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.08.25-08.18.19:165][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.08.25-08.18.19:976][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.25-08.18.19:976][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.25-08.18.20:079][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.25-08.18.20:185][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.25-08.18.21:345][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.08.25-08.18.21:847][  0]LogOcInput: OculusInput pre-init called
+[2017.08.25-08.18.22:351][  0]LogEngine: Initializing Engine...
+[2017.08.25-08.18.22:355][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.08.25-08.18.22:773][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.08.25-08.18.22:773][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.08.25-08.18.23:022][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.08.25-08.18.23:057][  0]LogInit: XAudio2 using 'Speakers/Headphones(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.25-08.18.23:490][  0]LogInit: FAudioDevice initialized.
+[2017.08.25-08.18.23:621][  0]LogDerivedDataCache: Saved boot cache 0.13s 93MB C:/Users/dsm2016/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.25-08.18.23:640][  0]LogInit: Texture streaming: Enabled
+[2017.08.25-08.18.23:856][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.08.25-08.18.23:857][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={24163219-4BFA-1BA9-9370-C492C1851B8B}
+[2017.08.25-08.18.24:294][  0]LogInit: Transaction tracking system initialized
+[2017.08.25-08.18.24:941][  0]BlueprintLog: New page: 에디터 로드
+[2017.08.25-08.18.26:701][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2017.08.25-08.18.28:115][  0]LogConsoleResponse: Display: 
+[2017.08.25-08.18.28:467][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.08.25-08.18.28:467][  0]LogCook: Display: Mobile HDR setting 1
+[2017.08.25-08.18.28:467][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.08.25-08.18.28:805][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Content/' took 0.02s
+[2017.08.25-08.18.30:624][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.25-08.18.30:624][  0]Cmd: MAP LOAD FILE="../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.25-08.18.30:626][  0]LightingResults: New page: 라이팅 빌드
+[2017.08.25-08.18.30:715][  0]MapCheck: New page: 맵 체크
+[2017.08.25-08.18.30:715][  0]LightingResults: New page: 라이팅 빌드
+[2017.08.25-08.18.31:115][  0]LogAIModule: Creating AISystem for world NewMap
+[2017.08.25-08.18.31:124][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.25-08.18.31:156][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.25-08.18.31:308][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 151.797ms.
+[2017.08.25-08.18.31:308][  0]LogFileHelpers: Loading map 'NewMap' took 0.684
+[2017.08.25-08.18.31:389][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2017.08.25-08.18.31:580][  0]LogCollectionManager: Loaded 0 collections in 0.002827 seconds
+[2017.08.25-08.18.31:710][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Saved/Collections/' took 0.01s
+[2017.08.25-08.18.31:710][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Content/Developers/dsm2016/Collections/' took 0.01s
+[2017.08.25-08.18.31:710][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Content/Collections/' took 0.01s
+[2017.08.25-08.18.31:710][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.08.25-08.18.31:728][  0]LogContentBrowser: Native class hierarchy populated in 0.0174 seconds. Added 2386 classes and 500 folders.
+[2017.08.25-08.18.31:844][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2017.08.25-08.18.31:969][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2017.08.25-08.18.32:054][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2017.08.25-08.18.32:101][  0]LogSlate: Took 0.000529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.25-08.18.32:109][  0]LogSlate: Took 0.007457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2017.08.25-08.18.32:112][  0]LogSlate: Took 0.000515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.08.25-08.18.32:121][  0]LogSlate: Took 0.000573 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.08.25-08.18.32:307][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2017.08.25-08.18.32:713][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.08.25-08.18.32:713][  0]LogLoad: (Engine Initialization) Total time: 34.69 seconds
+[2017.08.25-08.18.32:713][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.08.25-08.18.32:714][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.08.25-08.18.32:754][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.08.25-08.18.32:782][  0]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.25-08.18.32:904][  2]LogAssetRegistry: Asset discovery search completed in 23.4332 seconds
+[2017.08.25-08.18.32:908][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.08.25-08.18.32:908][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000097 seconds (updated 0 objects)
+[2017.08.25-08.18.36:342][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.08.25-08.18.37:864][145]Cmd: DELETE
+[2017.08.25-08.18.37:864][145]Cmd: ACTOR DELETE
+[2017.08.25-08.18.37:870][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.08.25-08.18.37:892][145]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2017.08.25-08.18.41:278][250]LogSlate: Took 0.000484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.25-08.18.41:541][250]LogSavePackage: Save=53.34ms
+[2017.08.25-08.18.41:541][250]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/NewMapA857F95F4407C25DFB3FABA721C36985.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/NewMap.umap'
+[2017.08.25-08.18.41:549][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/NewMap.umap
+[2017.08.25-08.18.41:569][250]LogFileHelpers: Saving map 'NewMap' took 0.260
+[2017.08.25-08.18.43:131][302]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.25-08.18.43:189][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.25-08.18.43:190][302]PIE: New page: PIE 세션: NewMap (2017. 8. 26. 오전 2:18:43)
+[2017.08.25-08.18.43:190][302]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/UEDPIE_0_NewMap
+[2017.08.25-08.18.43:194][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003753s)
+[2017.08.25-08.18.43:195][302]LogAIModule: Creating AISystem for world NewMap
+[2017.08.25-08.18.43:195][302]LogPlayLevel: PIE: World Init took: (0.001734s)
+[2017.08.25-08.18.43:196][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/NewMap.NewMap to /Game/2DSideScrollerBP/UEDPIE_0_NewMap.NewMap (0.005969s)
+[2017.08.25-08.18.43:243][302]LogInit: XAudio2 using 'Speakers/Headphones(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.25-08.18.43:330][302]LogInit: FAudioDevice initialized.
+[2017.08.25-08.18.43:382][302]LogLoad: Game class is 'GameModeBase'
+[2017.08.25-08.18.43:385][302]LogWorld: Bringing World /Game/2DSideScrollerBP/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.08.25-17.18.43
+[2017.08.25-08.18.43:385][302]LogWorld: Bringing up level for play took: 0.001649
+[2017.08.25-08.18.43:461][302]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2017.08.25-08.18.43:463][302]PIE: /Game/2DSideScrollerBP/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.793
+[2017.08.25-08.18.59:062][707]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:289 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2017.08.25-08.18.59:065][707]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)

@@ -1,0 +1,519 @@
+﻿Log file open, 08/27/17 00:47:31
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: G존
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1857652704) SRandInit(-1857652704).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.133474
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.08.26-15.47.31:943][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.26-15.47.31:943][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.08.26-15.47.31:955][  0]LogInit: Computer: 20206나성식
+[2017.08.26-15.47.31:955][  0]LogInit: User: dsm2016
+[2017.08.26-15.47.31:955][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.08.26-15.47.31:955][  0]LogInit: High frequency timer resolution =2.338337 MHz
+[2017.08.26-15.47.31:956][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.08.26-15.47.31:956][  0]LogMemory: Platform Memory Stats for Windows
+[2017.08.26-15.47.31:956][  0]LogMemory: Process Physical Memory: 278.20 MB used, 278.20 MB peak
+[2017.08.26-15.47.31:956][  0]LogMemory: Process Virtual Memory: 275.73 MB used, 275.73 MB peak
+[2017.08.26-15.47.31:956][  0]LogMemory: Physical Memory: 5261.91 MB used,  11013.19 MB free, 16275.11 MB total
+[2017.08.26-15.47.31:956][  0]LogMemory: Virtual Memory: 666.38 MB used,  11013.19 MB free, 134217728.00 MB total
+[2017.08.26-15.47.32:134][  0]LogInit: Using OS detected language (ko-KR).
+[2017.08.26-15.47.32:134][  0]LogInit: Using OS detected locale (ko-KR).
+[2017.08.26-15.47.32:140][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2017.08.26-15.47.32:814][  0]LogD3D11RHI: D3D11 adapters:
+[2017.08.26-15.47.32:822][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2017.08.26-15.47.32:822][  0]LogD3D11RHI:       128/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.08.26-15.47.33:490][  0]LogD3D11RHI:    1. 'AMD Radeon R5 M255' (Feature Level 11_0)
+[2017.08.26-15.47.33:490][  0]LogD3D11RHI:       2039/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2017.08.26-15.47.33:493][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.08.26-15.47.33:493][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.08.26-15.47.33:493][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2017.08.26-15.47.33:504][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.08.26-15.47.33:504][  0]LogD3D11RHI:     GPU DeviceId: 0x6901 (for the marketing name, search the web for "GPU Device Id")
+[2017.08.26-15.47.33:504][  0]LogWindows: EnumDisplayDevices:
+[2017.08.26-15.47.33:504][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2017.08.26-15.47.33:505][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.08.26-15.47.33:507][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.08.26-15.47.33:507][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.08.26-15.47.33:508][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R5 M255
+[2017.08.26-15.47.33:508][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.08.26-15.47.33:508][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.08.26-15.47.33:508][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.08.26-15.47.33:554][  0]LogD3D11RHI: Async texture creation enabled
+[2017.08.26-15.47.33:568][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.08.26-15.47.33:568][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Intermediate/Shaders/WorkingDirectory/36192/).
+[2017.08.26-15.47.33:569][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dsm2016/AppData/Local/Temp/UnrealShaderWorkingDir/8C45356F4F67686E4C3FFBA5DDD4E768/'.
+[2017.08.26-15.47.33:569][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.08.26-15.47.34:782][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.08.26-15.47.34:852][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.08.26-15.47.34:911][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.08.26-15.47.34:967][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.08.26-15.47.35:027][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.08.26-15.47.35:085][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.08.26-15.47.35:141][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.08.26-15.47.35:197][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.08.26-15.47.35:249][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.08.26-15.47.35:304][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.08.26-15.47.35:367][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.08.26-15.47.35:426][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.08.26-15.47.35:482][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.08.26-15.47.35:537][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.08.26-15.47.35:594][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.08.26-15.47.35:715][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.08.26-15.47.35:715][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.08.26-15.47.35:759][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.08.26-15.47.35:860][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.08.26-15.47.35:890][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.08.26-15.47.35:945][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.08.26-15.47.36:003][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.08.26-15.47.36:058][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.08.26-15.47.36:114][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.08.26-15.47.36:114][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.08.26-15.47.36:644][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.08.26-15.47.36:759][  0]LogDerivedDataCache: Loaded boot cache 0.11s 93MB C:/Users/dsm2016/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.26-15.47.36:759][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dsm2016/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.08.26-15.47.36:759][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.08.26-15.47.36:759][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.08.26-15.47.36:759][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.08.26-15.47.36:759][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.08.26-15.47.36:777][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.08.26-15.47.36:791][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dsm2016/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.08.26-15.47.36:802][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.08.26-15.47.36:802][  0]LogSlate: Using Freetype 2.6.0
+[2017.08.26-15.47.36:803][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.26-15.47.36:803][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.26-15.47.37:124][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2017.08.26-15.47.37:307][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.26-15.47.37:795][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.08.26-15.47.37:842][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.08.26-15.47.37:843][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.08.26-15.47.37:843][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.08.26-15.47.37:843][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.08.26-15.47.37:843][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.08.26-15.47.37:844][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.08.26-15.47.38:406][  0]LogNetVersion: G존 , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2015947967)
+[2017.08.26-15.47.38:681][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.072571 seconds
+[2017.08.26-15.47.38:689][  0]LogUObjectArray: 35831 objects as part of root set at end of initial load.
+[2017.08.26-15.47.38:689][  0]LogUObjectAllocator: 7531208 out of 0 bytes used by permanent object pool.
+[2017.08.26-15.47.38:689][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.08.26-15.47.38:758][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.08.26-15.47.42:481][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.08.26-15.47.42:525][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.08.26-15.47.43:278][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.08.26-15.47.43:733][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.26-15.47.43:733][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.26-15.47.43:789][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.26-15.47.43:846][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.26-15.47.44:516][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.08.26-15.47.44:801][  0]LogOcInput: OculusInput pre-init called
+[2017.08.26-15.47.45:092][  0]LogEngine: Initializing Engine...
+[2017.08.26-15.47.45:095][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.08.26-15.47.45:381][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.08.26-15.47.45:381][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.08.26-15.47.45:513][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.08.26-15.47.45:531][  0]LogInit: XAudio2 using 'Speakers/Headphones(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.26-15.47.45:950][  0]LogInit: FAudioDevice initialized.
+[2017.08.26-15.47.46:054][  0]LogDerivedDataCache: Saved boot cache 0.10s 93MB C:/Users/dsm2016/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.26-15.47.46:070][  0]LogInit: Texture streaming: Enabled
+[2017.08.26-15.47.46:183][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.08.26-15.47.46:421][  0]LogInit: Transaction tracking system initialized
+[2017.08.26-15.47.46:788][  0]BlueprintLog: New page: 에디터 로드
+[2017.08.26-15.47.47:765][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2017.08.26-15.47.48:530][  0]LogConsoleResponse: Display: 
+[2017.08.26-15.47.48:750][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.08.26-15.47.48:751][  0]LogCook: Display: Mobile HDR setting 1
+[2017.08.26-15.47.48:751][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.08.26-15.47.49:887][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Content/' took 0.02s
+[2017.08.26-15.47.49:938][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.26-15.47.49:938][  0]Cmd: MAP LOAD FILE="../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.26-15.47.49:939][  0]LightingResults: New page: 라이팅 빌드
+[2017.08.26-15.47.49:985][  0]MapCheck: New page: 맵 체크
+[2017.08.26-15.47.49:985][  0]LightingResults: New page: 라이팅 빌드
+[2017.08.26-15.47.50:723][  0]LogAIModule: Creating AISystem for world Boss_1
+[2017.08.26-15.47.50:731][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.26-15.47.50:755][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.26-15.47.50:864][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 108.364ms.
+[2017.08.26-15.47.50:864][  0]LogFileHelpers: Loading map 'BOSS_1' took 0.926
+[2017.08.26-15.47.50:933][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2017.08.26-15.47.51:047][  0]LogCollectionManager: Loaded 0 collections in 0.001536 seconds
+[2017.08.26-15.47.51:147][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Saved/Collections/' took 0.01s
+[2017.08.26-15.47.51:147][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Content/Developers/dsm2016/Collections/' took 0.01s
+[2017.08.26-15.47.51:147][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Content/Collections/' took 0.01s
+[2017.08.26-15.47.51:147][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.08.26-15.47.51:157][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2386 classes and 500 folders.
+[2017.08.26-15.47.51:228][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.08.26-15.47.51:310][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.08.26-15.47.51:358][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.08.26-15.47.51:461][  0]LogSlate: Took 0.000492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.26-15.47.51:465][  0]LogSlate: Took 0.004383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2017.08.26-15.47.51:467][  0]LogSlate: Took 0.000448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.08.26-15.47.51:473][  0]LogSlate: Took 0.000352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.08.26-15.47.51:598][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2017.08.26-15.47.51:884][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.08.26-15.47.51:884][  0]LogLoad: (Engine Initialization) Total time: 21.80 seconds
+[2017.08.26-15.47.51:884][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.08.26-15.47.51:885][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.08.26-15.47.51:925][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.08.26-15.47.51:946][  0]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.26-15.47.51:988][  1]LogAssetRegistry: Asset discovery search completed in 14.8863 seconds
+[2017.08.26-15.47.51:990][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.08.26-15.47.51:990][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2017.08.26-15.47.52:987][ 31]LogSlate: Took 0.000382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.26-15.48.11:563][638]LogEditorViewport: Clicking on Actor (LMB): Stage_1_Boss_C (Stage_1_Boss)
+[2017.08.26-15.48.15:193][766]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.26-15.48.15:654][766]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 113 classes and 0 folders.
+[2017.08.26-15.48.16:479][766]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.08.26-15.48.16:614][767]LogSlate: Took 0.000516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.08.26-15.48.36:045][854]LogSavePackage: Save=72.46ms
+[2017.08.26-15.48.36:045][854]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BOSS_1D986FC75462F306EDE11C99A96DA3F9F.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap'
+[2017.08.26-15.48.36:052][854]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap
+[2017.08.26-15.48.36:094][854]LogFileHelpers: Saving map 'BOSS_1' took 0.275
+[2017.08.26-15.48.36:188][854]LogSavePackage: Save=71.87ms
+[2017.08.26-15.48.36:188][854]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Stage_1_Boss8FE404114AB72810ADC757A240441784.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset'
+[2017.08.26-15.48.36:195][854]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset
+[2017.08.26-15.48.47:743][510]LogSavePackage: Save=71.29ms
+[2017.08.26-15.48.47:743][510]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Stage_1_Boss3D1473EA445DBE5F8E43B38C3ECA2DB8.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset'
+[2017.08.26-15.48.47:751][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset
+[2017.08.26-15.49.35:081][261]LogSavePackage: Save=69.52ms
+[2017.08.26-15.49.35:081][261]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BOSS_1FFAD4A3943AEDE80E4099CB66DE50B2E.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap'
+[2017.08.26-15.49.35:086][261]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap
+[2017.08.26-15.49.35:120][261]LogFileHelpers: Saving map 'BOSS_1' took 0.269
+[2017.08.26-15.49.35:202][261]LogSavePackage: Save=66.82ms
+[2017.08.26-15.49.35:202][261]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Stage_1_Boss123389974B41E04AAFE15082A025C3D3.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset'
+[2017.08.26-15.49.35:209][261]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset
+[2017.08.26-15.49.37:446][392]LogSlate: Took 0.000493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.08.26-15.49.48:578][ 37]LogSavePackage: Save=72.67ms
+[2017.08.26-15.49.48:578][ 37]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BOSS_1EA5C5AA9475D38609E89EDA7CBF9AE1F.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap'
+[2017.08.26-15.49.48:585][ 37]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap
+[2017.08.26-15.49.48:625][ 37]LogFileHelpers: Saving map 'BOSS_1' took 0.265
+[2017.08.26-15.49.48:720][ 37]LogSavePackage: Save=78.79ms
+[2017.08.26-15.49.48:720][ 37]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Stage_1_BossE4BF1AD443374368E03517B485455868.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset'
+[2017.08.26-15.49.48:727][ 37]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset
+[2017.08.26-15.49.49:290][ 69]BlueprintLog: New page: Stage_1_Boss 컴파일
+[2017.08.26-15.49.55:677][403]LogSavePackage: Save=68.66ms
+[2017.08.26-15.49.55:677][403]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BOSS_1D29501104D7B2F1D0462A68EFA3FB181.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap'
+[2017.08.26-15.49.55:683][403]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap
+[2017.08.26-15.49.55:721][403]LogFileHelpers: Saving map 'BOSS_1' took 0.261
+[2017.08.26-15.49.55:816][403]LogSavePackage: Save=79.03ms
+[2017.08.26-15.49.55:816][403]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Stage_1_Boss21C007B54EABEBF91BB9DB9462329244.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset'
+[2017.08.26-15.49.55:822][403]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset
+[2017.08.26-15.50.19:264][782]LogSavePackage: Save=70.21ms
+[2017.08.26-15.50.19:264][782]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BOSS_1180E13F74296443853524BA9124653EF.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap'
+[2017.08.26-15.50.19:271][782]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap
+[2017.08.26-15.50.19:313][782]LogFileHelpers: Saving map 'BOSS_1' took 0.263
+[2017.08.26-15.50.19:414][782]LogSavePackage: Save=84.34ms
+[2017.08.26-15.50.19:414][782]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Stage_1_BossC34B7A3D47AF23C1D9B9A9B05269E8BD.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset'
+[2017.08.26-15.50.19:420][782]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset
+[2017.08.26-15.50.20:781][864]BlueprintLog: New page: Stage_1_Boss 컴파일
+[2017.08.26-15.51.56:214][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:387][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:467][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:470][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:473][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:477][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:480][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:493][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:496][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:500][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:503][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:506][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:589][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:593][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:596][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:598][273]LogSavePackage: Save=418.32ms
+[2017.08.26-15.51.56:599][273]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BP_LightStudio8A9B9AA642652BAE5D4AA79E50FB263B.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/BP_LightStudio.uasset'
+[2017.08.26-15.51.56:603][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:606][273]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:606][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/BP_LightStudio.uasset
+[2017.08.26-15.51.56:781][274]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:793][274]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:801][274]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:804][274]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:807][274]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:811][274]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:814][274]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:818][274]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:822][274]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:826][274]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:830][274]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:833][274]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:842][274]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:845][274]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:849][274]LogSavePackage: Save=88.51ms
+[2017.08.26-15.51.56:850][274]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:850][274]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Blueprint_CeilingLightCF3B33CC429E3BE7676C90AD4EDF8EBF.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset'
+[2017.08.26-15.51.56:856][274]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:857][274]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
+[2017.08.26-15.51.56:929][275]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:935][275]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:939][275]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:943][275]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:946][275]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:949][275]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:952][275]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:956][275]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:959][275]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:962][275]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:965][275]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:967][275]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:972][275]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:975][275]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:980][275]LogSavePackage: Save=69.78ms
+[2017.08.26-15.51.56:980][275]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:980][275]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Blueprint_Effect_Explosion58BF86B84E5651EACBB48781E1C660EB.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset'
+[2017.08.26-15.51.56:986][275]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.56:988][275]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset
+[2017.08.26-15.51.57:212][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:217][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:222][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:225][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:229][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:231][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:235][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:238][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:241][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:244][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:247][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:250][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:254][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:257][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:261][276]LogSavePackage: Save=68.84ms
+[2017.08.26-15.51.57:262][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:262][276]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Blueprint_Effect_Fire91343BB84484D7DCD67DED80E8AC0CB5.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset'
+[2017.08.26-15.51.57:269][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:271][276]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset
+[2017.08.26-15.51.57:349][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:354][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:358][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:362][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:366][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:369][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:371][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:376][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:379][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:382][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:385][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:388][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:392][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:395][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:398][277]LogSavePackage: Save=70.16ms
+[2017.08.26-15.51.57:399][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:399][277]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Blueprint_Effect_Smoke7CD6F35E4849EB624F8FEDA013F48705.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset'
+[2017.08.26-15.51.57:407][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:408][277]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset
+[2017.08.26-15.51.57:518][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:523][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:528][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:531][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:534][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:537][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:539][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:543][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:546][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:549][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:551][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:554][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:558][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:561][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:565][278]LogSavePackage: Save=66.18ms
+[2017.08.26-15.51.57:565][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:565][278]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Blueprint_Effect_SparksC1EB8B98416B4C551DB5C88BCBBB79E9.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset'
+[2017.08.26-15.51.57:573][278]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:574][278]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset
+[2017.08.26-15.51.57:643][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:650][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:655][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:659][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:663][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:666][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:670][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:674][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:678][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:680][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:683][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:686][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:691][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:694][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:698][279]LogSavePackage: Save=72.20ms
+[2017.08.26-15.51.57:698][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:699][279]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Blueprint_Effect_SteamA6F1C4F04AB5FDDE652201A9F47C927C.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset'
+[2017.08.26-15.51.57:705][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:706][279]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset
+[2017.08.26-15.51.57:788][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:801][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:810][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:812][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:815][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:818][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:820][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:824][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:827][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:829][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:832][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:835][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:845][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:848][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:851][280]LogSavePackage: Save=75.89ms
+[2017.08.26-15.51.57:851][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:851][280]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Blueprint_WallSconceCEABF7154CE005FB9A43A6A301FF1377.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset'
+[2017.08.26-15.51.57:857][280]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.08.26-15.51.57:858][280]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset
+[2017.08.26-15.52.36:042][508]LogSavePackage: Save=71.02ms
+[2017.08.26-15.52.36:042][508]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BOSS_19A5E0B5A41A6B977595029A725FB9AF6.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap'
+[2017.08.26-15.52.36:049][508]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap
+[2017.08.26-15.52.36:084][508]LogFileHelpers: Saving map 'BOSS_1' took 0.270
+[2017.08.26-15.52.36:178][508]LogSavePackage: Save=79.74ms
+[2017.08.26-15.52.36:178][508]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Stage_1_Boss5522C1A34765045E2BEB9FBE5EF781C8.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset'
+[2017.08.26-15.52.36:183][508]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset
+[2017.08.26-15.52.37:468][583]LogRenderer: Reallocating scene render targets to support 1208x744 Format 10 NumSamples 1 (Frame:1).
+[2017.08.26-15.52.46:048][911]BlueprintLog: New page: Stage_1_Boss 컴파일
+[2017.08.26-15.52.46:074][911]LogProperty: Warning: Serialized Class /Script/Paper2D.PaperSprite for a property of Class /Script/Paper2D.PaperSpriteComponent. Reference will be nullptred.
+    Property = ObjectProperty /Game/2DSideScrollerBP/Blueprints/Stage_1_Boss.Stage_1_Boss_C:Commands.Commands
+    Item = PaperSprite /Game/2DSideScrollerBP/Images/위.위
+[2017.08.26-15.52.46:074][911]LogProperty: Warning: Serialized Class /Script/Paper2D.PaperSprite for a property of Class /Script/Paper2D.PaperSpriteComponent. Reference will be nullptred.
+    Property = ObjectProperty /Game/2DSideScrollerBP/Blueprints/Stage_1_Boss.Stage_1_Boss_C:Commands.Commands
+    Item = PaperSprite /Game/2DSideScrollerBP/Images/아래.아래
+[2017.08.26-15.52.46:074][911]LogProperty: Warning: Serialized Class /Script/Paper2D.PaperSprite for a property of Class /Script/Paper2D.PaperSpriteComponent. Reference will be nullptred.
+    Property = ObjectProperty /Game/2DSideScrollerBP/Blueprints/Stage_1_Boss.Stage_1_Boss_C:Commands.Commands
+    Item = PaperSprite /Game/2DSideScrollerBP/Images/왼쪽.왼쪽
+[2017.08.26-15.52.46:074][911]LogProperty: Warning: Serialized Class /Script/Paper2D.PaperSprite for a property of Class /Script/Paper2D.PaperSpriteComponent. Reference will be nullptred.
+    Property = ObjectProperty /Game/2DSideScrollerBP/Blueprints/Stage_1_Boss.Stage_1_Boss_C:Commands.Commands
+    Item = PaperSprite /Game/2DSideScrollerBP/Images/오른쪽.오른쪽
+[2017.08.26-15.53.03:015][533]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2017.08.26-15.53.03:089][533]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1:PersistentLevel.Boss_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1:PersistentLevel.Boss_1'
+[2017.08.26-15.53.03:089][533]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2017.08.26-15.53.03:103][533]LogPlayLevel: [PlayLevel] Compiling Stage_1_Boss before play...
+[2017.08.26-15.53.03:849][533]LogPlayLevel: PlayLevel: Blueprint regeneration took 760 ms (1 blueprints)
+[2017.08.26-15.53.03:850][533]PIE: New page: PIE 세션: BOSS_1 (2017. 8. 27. 오전 9:53:03)
+[2017.08.26-15.53.03:850][533]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1
+[2017.08.26-15.53.03:853][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003152s)
+[2017.08.26-15.53.03:854][533]LogAIModule: Creating AISystem for world Boss_1
+[2017.08.26-15.53.03:854][533]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2017.08.26-15.53.03:854][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1.Boss_1 (0.004448s)
+[2017.08.26-15.53.03:889][533]LogInit: XAudio2 using 'Speakers/Headphones(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.26-15.53.03:944][533]LogInit: FAudioDevice initialized.
+[2017.08.26-15.53.04:006][533]LogLoad: Game class is 'Stage_1_Boss_GameMode_C'
+[2017.08.26-15.53.04:008][533]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1.Boss_1 up for play (max tick rate 60) at 2017.08.27-00.53.04
+[2017.08.26-15.53.04:010][533]LogWorld: Bringing up level for play took: 0.002862
+[2017.08.26-15.53.04:065][533]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2017.08.26-15.53.04:069][533]PIE: /Game/2DSideScrollerBP/Maps/UEDPIE_0_BOSS_1 에 대한 에디터에서 플레이 시작 시간: 1.399
+[2017.08.26-15.53.04:070][533]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1:PersistentLevel.Boss_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1:PersistentLevel.Boss_1'
+[2017.08.26-15.53.04:254][533]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.08.26-15.53.05:591][579]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1:PersistentLevel.Boss_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1:PersistentLevel.Boss_1'
+[2017.08.26-15.53.05:870][579]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1:PersistentLevel.Boss_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/BOSS_1.Boss_1:PersistentLevel.Boss_1'
+[2017.08.26-15.53.20:530][278]LogSavePackage: Save=69.45ms
+[2017.08.26-15.53.20:530][278]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/BOSS_1598B0E2A430BA2B8CF2DDA91DA4AD560.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap'
+[2017.08.26-15.53.20:536][278]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Maps/BOSS_1.umap
+[2017.08.26-15.53.20:575][278]LogFileHelpers: Saving map 'BOSS_1' took 0.276
+[2017.08.26-15.53.20:671][278]LogSavePackage: Save=81.95ms
+[2017.08.26-15.53.20:671][278]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Stage_1_Boss75C3A62A4E25334417680C8385A29464.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset'
+[2017.08.26-15.53.20:676][278]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/Stage_1_Boss.uasset
+[2017.08.26-15.53.21:572][332]BlueprintLog: New page: Stage_1_Boss 컴파일
+[2017.08.26-15.54.10:778][683]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:289 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2017.08.26-15.54.10:781][683]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)

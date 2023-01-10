@@ -1,0 +1,579 @@
+﻿Log file open, 08/25/17 16:41:39
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: G존
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1474879552) SRandInit(-1474879552).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.138208
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.08.25-07.41.40:157][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.25-07.41.40:157][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.08.25-07.41.40:169][  0]LogInit: Computer: 20206나성식
+[2017.08.25-07.41.40:169][  0]LogInit: User: dsm2016
+[2017.08.25-07.41.40:169][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.08.25-07.41.40:169][  0]LogInit: High frequency timer resolution =2.338337 MHz
+[2017.08.25-07.41.40:170][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.08.25-07.41.40:170][  0]LogMemory: Platform Memory Stats for Windows
+[2017.08.25-07.41.40:170][  0]LogMemory: Process Physical Memory: 278.39 MB used, 278.39 MB peak
+[2017.08.25-07.41.40:170][  0]LogMemory: Process Virtual Memory: 273.71 MB used, 273.71 MB peak
+[2017.08.25-07.41.40:170][  0]LogMemory: Physical Memory: 6323.46 MB used,  9951.65 MB free, 16275.11 MB total
+[2017.08.25-07.41.40:170][  0]LogMemory: Virtual Memory: 664.32 MB used,  9951.65 MB free, 134217728.00 MB total
+[2017.08.25-07.41.40:417][  0]LogInit: Using OS detected language (ko-KR).
+[2017.08.25-07.41.40:417][  0]LogInit: Using OS detected locale (ko-KR).
+[2017.08.25-07.41.40:429][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2017.08.25-07.41.41:462][  0]LogD3D11RHI: D3D11 adapters:
+[2017.08.25-07.41.41:473][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2017.08.25-07.41.41:473][  0]LogD3D11RHI:       128/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.08.25-07.41.42:130][  0]LogD3D11RHI:    1. 'AMD Radeon R5 M255' (Feature Level 11_0)
+[2017.08.25-07.41.42:130][  0]LogD3D11RHI:       2039/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2017.08.25-07.41.42:133][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.08.25-07.41.42:133][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.08.25-07.41.42:133][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2017.08.25-07.41.42:142][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.08.25-07.41.42:142][  0]LogD3D11RHI:     GPU DeviceId: 0x6901 (for the marketing name, search the web for "GPU Device Id")
+[2017.08.25-07.41.42:142][  0]LogWindows: EnumDisplayDevices:
+[2017.08.25-07.41.42:143][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2017.08.25-07.41.42:144][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.08.25-07.41.42:146][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.08.25-07.41.42:147][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.08.25-07.41.42:147][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R5 M255
+[2017.08.25-07.41.42:147][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.08.25-07.41.42:147][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.08.25-07.41.42:148][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.08.25-07.41.42:197][  0]LogD3D11RHI: Async texture creation enabled
+[2017.08.25-07.41.42:213][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.08.25-07.41.42:214][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Intermediate/Shaders/WorkingDirectory/20412/).
+[2017.08.25-07.41.42:215][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dsm2016/AppData/Local/Temp/UnrealShaderWorkingDir/71CC84AE4F8B2A0045F41EB67A60FFC8/'.
+[2017.08.25-07.41.42:215][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.08.25-07.41.43:923][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.08.25-07.41.43:992][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.08.25-07.41.44:064][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.08.25-07.41.44:136][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.08.25-07.41.44:213][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.08.25-07.41.44:284][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.08.25-07.41.44:355][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.08.25-07.41.44:425][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.08.25-07.41.44:488][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.08.25-07.41.44:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.08.25-07.41.44:629][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.08.25-07.41.44:709][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.08.25-07.41.44:793][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.08.25-07.41.44:863][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.08.25-07.41.44:937][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.08.25-07.41.45:078][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.08.25-07.41.45:078][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.08.25-07.41.45:134][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.08.25-07.41.45:260][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.08.25-07.41.45:298][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.08.25-07.41.45:370][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.08.25-07.41.45:443][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.08.25-07.41.45:516][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.08.25-07.41.45:587][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.08.25-07.41.45:587][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.08.25-07.41.46:229][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.08.25-07.41.46:370][  0]LogDerivedDataCache: Loaded boot cache 0.14s 93MB C:/Users/dsm2016/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.25-07.41.46:370][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dsm2016/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.08.25-07.41.46:370][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.08.25-07.41.46:370][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.08.25-07.41.46:370][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.08.25-07.41.46:370][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.08.25-07.41.46:393][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.08.25-07.41.46:407][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dsm2016/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.08.25-07.41.46:421][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.08.25-07.41.46:421][  0]LogSlate: Using Freetype 2.6.0
+[2017.08.25-07.41.46:422][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.25-07.41.46:422][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.25-07.41.46:847][  0]LogAssetRegistry: FAssetRegistry took 0.0295 seconds to start up
+[2017.08.25-07.41.47:096][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.25-07.41.47:370][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.08.25-07.41.47:900][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.08.25-07.41.47:975][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.08.25-07.41.47:975][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.08.25-07.41.47:975][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.08.25-07.41.47:975][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.08.25-07.41.47:975][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.08.25-07.41.48:614][  0]LogNetVersion: G존 , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2015947967)
+[2017.08.25-07.41.49:013][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.094971 seconds
+[2017.08.25-07.41.49:023][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.08.25-07.41.49:023][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.08.25-07.41.49:023][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.08.25-07.41.49:128][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.08.25-07.41.53:802][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.08.25-07.41.53:858][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.08.25-07.41.54:747][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.08.25-07.41.55:336][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.25-07.41.55:336][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.25-07.41.55:403][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.25-07.41.55:474][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.25-07.41.56:341][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.08.25-07.41.56:696][  0]LogOcInput: OculusInput pre-init called
+[2017.08.25-07.41.57:064][  0]LogEngine: Initializing Engine...
+[2017.08.25-07.41.57:068][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.08.25-07.41.57:402][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.08.25-07.41.57:402][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.08.25-07.41.57:586][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.08.25-07.41.57:611][  0]LogInit: XAudio2 using 'Speakers/Headphones(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.25-07.41.57:996][  0]LogInit: FAudioDevice initialized.
+[2017.08.25-07.41.58:107][  0]LogDerivedDataCache: Saved boot cache 0.11s 93MB C:/Users/dsm2016/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.25-07.41.58:129][  0]LogInit: Texture streaming: Enabled
+[2017.08.25-07.41.58:275][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.08.25-07.41.58:595][  0]LogInit: Transaction tracking system initialized
+[2017.08.25-07.41.59:038][  0]BlueprintLog: New page: 에디터 로드
+[2017.08.25-07.42.00:274][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2017.08.25-07.42.01:254][  0]LogConsoleResponse: Display: 
+[2017.08.25-07.42.01:553][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.08.25-07.42.01:553][  0]LogCook: Display: Mobile HDR setting 1
+[2017.08.25-07.42.01:553][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.08.25-07.42.02:033][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Content/' took 0.01s
+[2017.08.25-07.42.03:156][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.25-07.42.03:158][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Program Files/Epic Games/UE_4.17/FeaturePacks/StarterContent.upack)
+[2017.08.25-07.42.03:168][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.08.25-07.42.03:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2017.08.25-07.42.03:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2017.08.25-07.42.03:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2017.08.25-07.42.03:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2017.08.25-07.42.03:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2017.08.25-07.42.03:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2017.08.25-07.42.03:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2017.08.25-07.42.03:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2017.08.25-07.42.03:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2017.08.25-07.42.03:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2017.08.25-07.42.03:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2017.08.25-07.42.03:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Collapse01.uasset"
+[2017.08.25-07.42.03:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Collapse02.uasset"
+[2017.08.25-07.42.03:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2017.08.25-07.42.03:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Explosion01.uasset"
+[2017.08.25-07.42.03:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Explosion02.uasset"
+[2017.08.25-07.42.03:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2017.08.25-07.42.03:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Fire01.uasset"
+[2017.08.25-07.42.03:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2017.08.25-07.42.03:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2017.08.25-07.42.03:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2017.08.25-07.42.03:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Light01.uasset"
+[2017.08.25-07.42.03:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2017.08.25-07.42.03:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Light02.uasset"
+[2017.08.25-07.42.03:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2017.08.25-07.42.03:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Smoke01.uasset"
+[2017.08.25-07.42.03:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2017.08.25-07.42.03:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2017.08.25-07.42.03:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2017.08.25-07.42.03:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2017.08.25-07.42.03:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2017.08.25-07.42.03:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2017.08.25-07.42.03:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2017.08.25-07.42.03:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Steam01.uasset"
+[2017.08.25-07.42.03:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2017.08.25-07.42.03:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2017.08.25-07.42.03:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2017.08.25-07.42.03:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2017.08.25-07.42.03:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2017.08.25-07.42.03:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2017.08.25-07.42.03:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2017.08.25-07.42.03:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2017.08.25-07.42.03:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2017.08.25-07.42.03:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2017.08.25-07.42.03:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2017.08.25-07.42.03:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2017.08.25-07.42.03:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2017.08.25-07.42.03:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2017.08.25-07.42.03:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2017.08.25-07.42.03:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2017.08.25-07.42.03:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2017.08.25-07.42.03:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2017.08.25-07.42.03:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2017.08.25-07.42.03:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2017.08.25-07.42.03:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Maps/Minimal_Default.umap"
+[2017.08.25-07.42.03:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2017.08.25-07.42.03:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Maps/StarterMap.umap"
+[2017.08.25-07.42.03:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2017.08.25-07.42.03:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2017.08.25-07.42.03:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2017.08.25-07.42.03:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2017.08.25-07.42.03:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2017.08.25-07.42.03:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2017.08.25-07.42.03:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2017.08.25-07.42.03:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2017.08.25-07.42.03:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2017.08.25-07.42.03:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2017.08.25-07.42.03:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2017.08.25-07.42.03:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2017.08.25-07.42.03:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2017.08.25-07.42.03:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2017.08.25-07.42.03:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2017.08.25-07.42.03:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2017.08.25-07.42.03:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2017.08.25-07.42.03:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2017.08.25-07.42.03:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Glass.uasset"
+[2017.08.25-07.42.03:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2017.08.25-07.42.03:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2017.08.25-07.42.03:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2017.08.25-07.42.03:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2017.08.25-07.42.03:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2017.08.25-07.42.03:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2017.08.25-07.42.03:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2017.08.25-07.42.03:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2017.08.25-07.42.03:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2017.08.25-07.42.03:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2017.08.25-07.42.03:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2017.08.25-07.42.03:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2017.08.25-07.42.03:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2017.08.25-07.42.03:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2017.08.25-07.42.03:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2017.08.25-07.42.03:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2017.08.25-07.42.03:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2017.08.25-07.42.03:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2017.08.25-07.42.03:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2017.08.25-07.42.03:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2017.08.25-07.42.03:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2017.08.25-07.42.03:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2017.08.25-07.42.03:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2017.08.25-07.42.03:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2017.08.25-07.42.03:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2017.08.25-07.42.03:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2017.08.25-07.42.03:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Particles/P_Explosion.uasset"
+[2017.08.25-07.42.03:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Particles/P_Fire.uasset"
+[2017.08.25-07.42.03:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Particles/P_Smoke.uasset"
+[2017.08.25-07.42.03:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Particles/P_Sparks.uasset"
+[2017.08.25-07.42.03:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2017.08.25-07.42.03:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2017.08.25-07.42.03:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2017.08.25-07.42.03:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2017.08.25-07.42.03:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2017.08.25-07.42.03:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2017.08.25-07.42.03:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2017.08.25-07.42.03:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2017.08.25-07.42.03:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2017.08.25-07.42.03:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2017.08.25-07.42.03:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2017.08.25-07.42.03:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/MaterialSphere.uasset"
+[2017.08.25-07.42.03:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_Bush.uasset"
+[2017.08.25-07.42.03:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_Chair.uasset"
+[2017.08.25-07.42.03:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2017.08.25-07.42.03:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_Couch.uasset"
+[2017.08.25-07.42.03:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_Door.uasset"
+[2017.08.25-07.42.03:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2017.08.25-07.42.03:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2017.08.25-07.42.03:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2017.08.25-07.42.03:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2017.08.25-07.42.03:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2017.08.25-07.42.03:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2017.08.25-07.42.03:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2017.08.25-07.42.03:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_Rock.uasset"
+[2017.08.25-07.42.03:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_Shelf.uasset"
+[2017.08.25-07.42.03:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_Stairs.uasset"
+[2017.08.25-07.42.03:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_Statue.uasset"
+[2017.08.25-07.42.03:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_TableRound.uasset"
+[2017.08.25-07.42.03:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2017.08.25-07.42.03:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2017.08.25-07.42.03:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2017.08.25-07.42.03:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2017.08.25-07.42.03:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2017.08.25-07.42.03:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2017.08.25-07.42.03:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2017.08.25-07.42.03:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2017.08.25-07.42.03:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2017.08.25-07.42.03:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2017.08.25-07.42.03:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2017.08.25-07.42.03:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2017.08.25-07.42.03:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2017.08.25-07.42.03:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2017.08.25-07.42.03:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2017.08.25-07.42.03:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2017.08.25-07.42.03:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2017.08.25-07.42.03:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2017.08.25-07.42.03:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2017.08.25-07.42.03:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2017.08.25-07.42.03:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2017.08.25-07.42.03:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2017.08.25-07.42.03:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2017.08.25-07.42.03:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2017.08.25-07.42.03:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2017.08.25-07.42.03:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2017.08.25-07.42.03:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2017.08.25-07.42.04:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2017.08.25-07.42.04:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2017.08.25-07.42.04:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2017.08.25-07.42.04:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2017.08.25-07.42.04:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2017.08.25-07.42.04:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2017.08.25-07.42.04:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2017.08.25-07.42.04:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2017.08.25-07.42.04:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2017.08.25-07.42.04:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2017.08.25-07.42.04:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2017.08.25-07.42.04:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2017.08.25-07.42.04:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2017.08.25-07.42.04:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2017.08.25-07.42.04:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2017.08.25-07.42.04:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2017.08.25-07.42.04:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2017.08.25-07.42.04:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2017.08.25-07.42.04:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2017.08.25-07.42.04:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2017.08.25-07.42.04:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2017.08.25-07.42.04:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2017.08.25-07.42.04:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2017.08.25-07.42.04:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2017.08.25-07.42.04:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2017.08.25-07.42.04:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2017.08.25-07.42.04:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2017.08.25-07.42.04:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2017.08.25-07.42.04:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2017.08.25-07.42.04:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2017.08.25-07.42.04:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2017.08.25-07.42.04:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2017.08.25-07.42.04:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2017.08.25-07.42.04:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2017.08.25-07.42.04:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2017.08.25-07.42.04:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2017.08.25-07.42.04:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2017.08.25-07.42.04:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2017.08.25-07.42.04:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2017.08.25-07.42.04:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2017.08.25-07.42.04:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2017.08.25-07.42.04:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2017.08.25-07.42.04:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2017.08.25-07.42.04:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2017.08.25-07.42.04:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Door_M.uasset"
+[2017.08.25-07.42.04:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Door_N.uasset"
+[2017.08.25-07.42.04:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2017.08.25-07.42.04:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2017.08.25-07.42.04:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2017.08.25-07.42.04:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2017.08.25-07.42.04:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2017.08.25-07.42.04:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2017.08.25-07.42.04:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2017.08.25-07.42.04:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2017.08.25-07.42.04:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2017.08.25-07.42.04:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2017.08.25-07.42.04:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2017.08.25-07.42.04:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2017.08.25-07.42.04:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2017.08.25-07.42.04:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2017.08.25-07.42.04:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2017.08.25-07.42.04:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2017.08.25-07.42.04:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2017.08.25-07.42.04:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2017.08.25-07.42.04:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2017.08.25-07.42.04:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2017.08.25-07.42.04:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2017.08.25-07.42.04:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2017.08.25-07.42.04:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2017.08.25-07.42.04:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2017.08.25-07.42.04:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2017.08.25-07.42.04:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2017.08.25-07.42.04:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2017.08.25-07.42.04:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2017.08.25-07.42.04:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2017.08.25-07.42.04:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2017.08.25-07.42.04:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2017.08.25-07.42.04:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2017.08.25-07.42.04:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2017.08.25-07.42.04:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2017.08.25-07.42.04:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2017.08.25-07.42.04:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2017.08.25-07.42.04:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2017.08.25-07.42.04:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2017.08.25-07.42.04:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2017.08.25-07.42.04:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2017.08.25-07.42.04:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2017.08.25-07.42.04:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2017.08.25-07.42.04:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2017.08.25-07.42.04:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2017.08.25-07.42.04:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2017.08.25-07.42.04:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2017.08.25-07.42.04:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2017.08.25-07.42.04:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2017.08.25-07.42.04:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2017.08.25-07.42.04:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2017.08.25-07.42.04:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2017.08.25-07.42.04:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Water_M.uasset"
+[2017.08.25-07.42.04:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Water_N.uasset"
+[2017.08.25-07.42.04:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2017.08.25-07.42.04:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2017.08.25-07.42.04:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2017.08.25-07.42.04:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2017.08.25-07.42.04:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2017.08.25-07.42.04:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2017.08.25-07.42.04:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2017.08.25-07.42.04:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2017.08.25-07.42.04:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2017.08.25-07.42.05:063][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2017.08.25-07.42.05:200][  0]LogSavePackage: Save=17.85ms
+[2017.08.25-07.42.05:200][  0]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/Floor_400x400F573009743F28424BECBFCAFFA8636B5.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2017.08.25-07.42.05:206][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2017.08.25-07.42.05:206][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2017.08.25-07.42.05:209][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.25-07.42.05:210][  0]LightingResults: New page: 라이팅 빌드
+[2017.08.25-07.42.05:267][  0]MapCheck: New page: 맵 체크
+[2017.08.25-07.42.05:267][  0]LightingResults: New page: 라이팅 빌드
+[2017.08.25-07.42.05:558][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.08.25-07.42.05:567][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.25-07.42.05:588][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.25-07.42.05:694][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 105.797ms.
+[2017.08.25-07.42.05:695][  0]LogFileHelpers: Loading map 'Template_Default' took 0.485
+[2017.08.25-07.42.05:774][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2017.08.25-07.42.05:921][  0]LogCollectionManager: Loaded 0 collections in 0.001172 seconds
+[2017.08.25-07.42.06:022][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Saved/Collections/' took 0.01s
+[2017.08.25-07.42.06:022][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Content/Developers/dsm2016/Collections/' took 0.01s
+[2017.08.25-07.42.06:022][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Content/Collections/' took 0.01s
+[2017.08.25-07.42.06:022][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.08.25-07.42.06:035][  0]LogContentBrowser: Native class hierarchy populated in 0.0127 seconds. Added 2386 classes and 500 folders.
+[2017.08.25-07.42.06:128][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.08.25-07.42.06:223][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.08.25-07.42.06:286][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.08.25-07.42.06:323][  0]LogSlate: Took 0.000534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.25-07.42.06:328][  0]LogSlate: Took 0.004528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2017.08.25-07.42.06:330][  0]LogSlate: Took 0.000501 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.08.25-07.42.06:340][  0]LogSlate: Took 0.001499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.08.25-07.42.06:542][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2017.08.25-07.42.06:594][  0]LogSlate: Took 0.000429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.25-07.42.06:824][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.08.25-07.42.06:825][  0]LogLoad: (Engine Initialization) Total time: 29.02 seconds
+[2017.08.25-07.42.06:825][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.08.25-07.42.06:825][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.08.25-07.42.07:460][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.08.25-07.42.07:817][ 10]LogAssetRegistry: Asset discovery search completed in 20.9921 seconds
+[2017.08.25-07.42.07:820][ 10]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.08.25-07.42.07:820][ 10]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2017.08.25-07.42.15:644][319]LogTemp: IPP ERROR: Illegal character in bundle ID
+[2017.08.25-07.42.15:644][319]LogTemp: Usage: iPhonePackager <Command> <GameName> [RPCCommand &| Switch]
+[2017.08.25-07.42.15:644][319]LogTemp: 
+[2017.08.25-07.42.15:644][319]LogTemp: Common commands:
+[2017.08.25-07.42.15:645][319]LogTemp:  ... RepackageIPA GameName
+[2017.08.25-07.42.15:645][319]LogTemp:  ... PackageIPA GameName
+[2017.08.25-07.42.15:645][319]LogTemp:  ... PackageApp GameName
+[2017.08.25-07.42.15:645][319]LogTemp:  ... Deploy PathToIPA
+[2017.08.25-07.42.15:645][319]LogTemp:  ... RepackageFromStage GameName
+[2017.08.25-07.42.15:645][319]LogTemp:  ... Devices
+[2017.08.25-07.42.15:645][319]LogTemp:  ... Validate
+[2017.08.25-07.42.15:645][319]LogTemp:  ... Install
+[2017.08.25-07.42.15:645][319]LogTemp: 
+[2017.08.25-07.42.15:645][319]LogTemp: Configuration switches:
+[2017.08.25-07.42.15:645][319]LogTemp: 	 -stagedir <path>		  sets the directory to copy staged files from (defaults to none)
+[2017.08.25-07.42.15:645][319]LogTemp: 	 -project <path>		  path to the project being packaged
+[2017.08.25-07.42.15:645][319]LogTemp: 	 -compress=fast|best|none  packaging compression level (defaults to none)
+[2017.08.25-07.42.15:645][319]LogTemp: 	 -strip					strip symbols during packaging
+[2017.08.25-07.42.15:645][319]LogTemp: 	 -config				   game configuration (e.g., Shipping, Development, etc...)
+[2017.08.25-07.42.15:645][319]LogTemp: 	 -distribution			 packaging for final distribution
+[2017.08.25-07.42.15:645][319]LogTemp: 	 -createstub			   packaging stub IPA for later repackaging
+[2017.08.25-07.42.15:645][319]LogTemp: 	 -mac <MacName>			overrides the machine to use for any Mac operations
+[2017.08.25-07.42.15:645][319]LogTemp: 	 -arch <Architecture>	  sets the architecture to use (blank for default, -simulator for simulator builds)
+[2017.08.25-07.42.15:645][319]LogTemp: 	 -device <DeviceID>		sets the device to install the IPA on
+[2017.08.25-07.42.15:645][319]LogTemp: 
+[2017.08.25-07.42.15:645][319]LogTemp: Commands: RPC, Clean
+[2017.08.25-07.42.15:645][319]LogTemp:   StageMacFiles, GetIPA, Deploy, Install, Uninstall
+[2017.08.25-07.42.15:645][319]LogTemp: 
+[2017.08.25-07.42.15:645][319]LogTemp: RPC Commands: SetExec, InstallProvision, MakeApp, DeleteIPA, Copy, Kill, Strip, Zip, GenDSYM
+[2017.08.25-07.42.15:645][319]LogTemp: 
+[2017.08.25-07.42.15:645][319]LogTemp: Sample commandlines:
+[2017.08.25-07.42.15:645][319]LogTemp:  ... iPhonePackager Deploy UDKGame Release
+[2017.08.25-07.42.15:645][319]LogTemp:  ... iPhonePackager RPC SwordGame Shipping MakeApp
+[2017.08.25-07.42.23:814][562]LogSlate: Took 0.000379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.25-07.42.30:983][861]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:289 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2017.08.25-07.42.30:992][861]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)

@@ -1,0 +1,398 @@
+﻿Log file open, 08/25/17 20:13:07
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: G존
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1870357507) SRandInit(-1870357507).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.182256
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.08.25-11.13.07:932][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.25-11.13.07:932][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.08.25-11.13.07:944][  0]LogInit: Computer: 20206나성식
+[2017.08.25-11.13.07:944][  0]LogInit: User: dsm2016
+[2017.08.25-11.13.07:944][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.08.25-11.13.07:944][  0]LogInit: High frequency timer resolution =2.338337 MHz
+[2017.08.25-11.13.07:944][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.08.25-11.13.07:944][  0]LogMemory: Platform Memory Stats for Windows
+[2017.08.25-11.13.07:944][  0]LogMemory: Process Physical Memory: 279.01 MB used, 279.01 MB peak
+[2017.08.25-11.13.07:944][  0]LogMemory: Process Virtual Memory: 275.80 MB used, 275.80 MB peak
+[2017.08.25-11.13.07:944][  0]LogMemory: Physical Memory: 6158.71 MB used,  10116.40 MB free, 16275.11 MB total
+[2017.08.25-11.13.07:944][  0]LogMemory: Virtual Memory: 666.38 MB used,  10116.40 MB free, 134217728.00 MB total
+[2017.08.25-11.13.08:131][  0]LogInit: Using OS detected language (ko-KR).
+[2017.08.25-11.13.08:131][  0]LogInit: Using OS detected locale (ko-KR).
+[2017.08.25-11.13.08:139][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2017.08.25-11.13.08:946][  0]LogD3D11RHI: D3D11 adapters:
+[2017.08.25-11.13.08:954][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2017.08.25-11.13.08:954][  0]LogD3D11RHI:       128/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.08.25-11.13.09:610][  0]LogD3D11RHI:    1. 'AMD Radeon R5 M255' (Feature Level 11_0)
+[2017.08.25-11.13.09:610][  0]LogD3D11RHI:       2039/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2017.08.25-11.13.09:613][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.08.25-11.13.09:613][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.08.25-11.13.09:613][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2017.08.25-11.13.09:622][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.08.25-11.13.09:622][  0]LogD3D11RHI:     GPU DeviceId: 0x6901 (for the marketing name, search the web for "GPU Device Id")
+[2017.08.25-11.13.09:622][  0]LogWindows: EnumDisplayDevices:
+[2017.08.25-11.13.09:622][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2017.08.25-11.13.09:623][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.08.25-11.13.09:625][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.08.25-11.13.09:626][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.08.25-11.13.09:626][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R5 M255
+[2017.08.25-11.13.09:626][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.08.25-11.13.09:626][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.08.25-11.13.09:626][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.08.25-11.13.09:676][  0]LogD3D11RHI: Async texture creation enabled
+[2017.08.25-11.13.09:690][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.08.25-11.13.09:690][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Intermediate/Shaders/WorkingDirectory/24240/).
+[2017.08.25-11.13.09:691][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dsm2016/AppData/Local/Temp/UnrealShaderWorkingDir/41707C3B4B63858DCA151E9A72D9DDDD/'.
+[2017.08.25-11.13.09:691][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.08.25-11.13.10:967][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.08.25-11.13.11:037][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.08.25-11.13.11:110][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.08.25-11.13.11:188][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.08.25-11.13.11:255][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.08.25-11.13.11:317][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.08.25-11.13.11:384][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.08.25-11.13.11:446][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.08.25-11.13.11:501][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.08.25-11.13.11:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.08.25-11.13.11:634][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.08.25-11.13.11:697][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.08.25-11.13.11:758][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.08.25-11.13.11:823][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.08.25-11.13.11:889][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.08.25-11.13.12:020][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.08.25-11.13.12:020][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.08.25-11.13.12:071][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.08.25-11.13.12:180][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.08.25-11.13.12:213][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.08.25-11.13.12:274][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.08.25-11.13.12:340][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.08.25-11.13.12:401][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.08.25-11.13.12:466][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.08.25-11.13.12:466][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.08.25-11.13.13:107][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.08.25-11.13.13:234][  0]LogDerivedDataCache: Loaded boot cache 0.13s 93MB C:/Users/dsm2016/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.25-11.13.13:234][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dsm2016/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.08.25-11.13.13:235][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.08.25-11.13.13:235][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.08.25-11.13.13:235][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.08.25-11.13.13:235][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.08.25-11.13.13:258][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.08.25-11.13.13:272][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dsm2016/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.08.25-11.13.13:284][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.08.25-11.13.13:285][  0]LogSlate: Using Freetype 2.6.0
+[2017.08.25-11.13.13:286][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.25-11.13.13:286][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.25-11.13.13:660][  0]LogAssetRegistry: FAssetRegistry took 0.0277 seconds to start up
+[2017.08.25-11.13.13:853][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.25-11.13.14:058][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.08.25-11.13.14:453][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.08.25-11.13.14:511][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.08.25-11.13.14:511][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.08.25-11.13.14:511][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.08.25-11.13.14:511][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.08.25-11.13.14:511][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.08.25-11.13.14:981][  0]LogNetVersion: G존 , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2015947967)
+[2017.08.25-11.13.15:266][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.076805 seconds
+[2017.08.25-11.13.15:273][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.08.25-11.13.15:273][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.08.25-11.13.15:273][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.08.25-11.13.15:338][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.08.25-11.13.18:845][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.08.25-11.13.18:885][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.08.25-11.13.19:763][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.08.25-11.13.20:292][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.25-11.13.20:292][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.25-11.13.20:350][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.25-11.13.20:423][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.25-11.13.21:158][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.08.25-11.13.21:477][  0]LogOcInput: OculusInput pre-init called
+[2017.08.25-11.13.21:796][  0]LogEngine: Initializing Engine...
+[2017.08.25-11.13.21:799][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.08.25-11.13.22:075][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.08.25-11.13.22:075][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.08.25-11.13.22:248][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.08.25-11.13.22:276][  0]LogInit: XAudio2 using 'Speakers/Headphones(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.25-11.13.22:671][  0]LogInit: FAudioDevice initialized.
+[2017.08.25-11.13.22:781][  0]LogDerivedDataCache: Saved boot cache 0.11s 93MB C:/Users/dsm2016/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.25-11.13.22:796][  0]LogInit: Texture streaming: Enabled
+[2017.08.25-11.13.22:921][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.08.25-11.13.22:921][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={46F48BC8-41E0-B8BF-8168-8CAA561905C7}
+[2017.08.25-11.13.23:196][  0]LogInit: Transaction tracking system initialized
+[2017.08.25-11.13.23:597][  0]BlueprintLog: New page: 에디터 로드
+[2017.08.25-11.13.24:889][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2017.08.25-11.13.25:871][  0]LogConsoleResponse: Display: 
+[2017.08.25-11.13.26:192][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.08.25-11.13.26:192][  0]LogCook: Display: Mobile HDR setting 1
+[2017.08.25-11.13.26:192][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.08.25-11.13.26:686][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Content/' took 0.02s
+[2017.08.25-11.13.27:717][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.08.25-11.13.27:717][  0]Cmd: MAP LOAD FILE="../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.25-11.13.27:719][  0]LightingResults: New page: 라이팅 빌드
+[2017.08.25-11.13.27:781][  0]MapCheck: New page: 맵 체크
+[2017.08.25-11.13.27:781][  0]LightingResults: New page: 라이팅 빌드
+[2017.08.25-11.13.28:425][  0]LogAIModule: Creating AISystem for world NewMap
+[2017.08.25-11.13.28:433][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.25-11.13.28:452][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.25-11.13.28:576][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 124.584ms.
+[2017.08.25-11.13.28:576][  0]LogFileHelpers: Loading map 'NewMap' took 0.859
+[2017.08.25-11.13.28:655][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2017.08.25-11.13.28:772][  0]LogCollectionManager: Loaded 0 collections in 0.001531 seconds
+[2017.08.25-11.13.28:861][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Saved/Collections/' took 0.01s
+[2017.08.25-11.13.28:861][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Content/Developers/dsm2016/Collections/' took 0.01s
+[2017.08.25-11.13.28:861][  0]LogFileCache: Scanning file cache for directory 'D:/Users/dsm2016/Documents/Unreal Projects/G존/Content/Collections/' took 0.01s
+[2017.08.25-11.13.28:861][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.08.25-11.13.28:874][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2386 classes and 500 folders.
+[2017.08.25-11.13.28:957][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.08.25-11.13.29:053][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.08.25-11.13.29:105][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.08.25-11.13.29:133][  0]LogSlate: Took 0.000637 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.25-11.13.29:138][  0]LogSlate: Took 0.005202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2017.08.25-11.13.29:141][  0]LogSlate: Took 0.000485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.08.25-11.13.29:149][  0]LogSlate: Took 0.000535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.08.25-11.13.29:282][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2017.08.25-11.13.29:558][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.08.25-11.13.29:558][  0]LogLoad: (Engine Initialization) Total time: 23.60 seconds
+[2017.08.25-11.13.29:558][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.08.25-11.13.29:559][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.08.25-11.13.29:599][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.08.25-11.13.29:619][  0]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.25-11.13.29:652][  1]LogAssetRegistry: Asset discovery search completed in 16.0146 seconds
+[2017.08.25-11.13.29:654][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.08.25-11.13.29:654][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2017.08.25-11.13.30:658][ 31]LogSlate: Took 0.000540 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.25-11.14.40:817][326]LogSlate: Took 0.000421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.25-11.14.41:301][326]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 113 classes and 0 folders.
+[2017.08.25-11.14.42:085][326]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.25-11.14.42:165][326]LogSlate: Took 0.000454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.08.25-11.14.42:374][327]LogSlate: Took 0.000661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.08.25-11.16.45:540][596]LogEditorTransaction: Undo 노드 이동
+[2017.08.25-11.16.47:486][705]BlueprintLog: New page: RunCharacter 컴파일
+[2017.08.25-11.16.48:706][742]LogSavePackage: Save=94.61ms
+[2017.08.25-11.16.48:706][742]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/RunCharacterC9B666354C8232E8F533BCAF2F5BFA11.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/RunCharacter.uasset'
+[2017.08.25-11.16.48:713][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/RunCharacter.uasset
+[2017.08.25-11.17.47:571][198]BlueprintLog: New page: RunCharacter 컴파일
+[2017.08.25-11.17.48:803][230]LogSavePackage: Save=111.68ms
+[2017.08.25-11.17.48:803][230]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/RunCharacterD425CE64493BC1E960BD5A83E32CD82E.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/RunCharacter.uasset'
+[2017.08.25-11.17.48:810][230]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/RunCharacter.uasset
+[2017.08.25-11.17.49:947][297]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.25-11.17.49:998][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.25-11.17.49:998][297]PIE: New page: PIE 세션: NewMap (2017. 8. 26. 오전 5:17:49)
+[2017.08.25-11.17.49:998][297]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/UEDPIE_0_NewMap
+[2017.08.25-11.17.50:001][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002978s)
+[2017.08.25-11.17.50:002][297]LogAIModule: Creating AISystem for world NewMap
+[2017.08.25-11.17.50:003][297]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2017.08.25-11.17.50:003][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/NewMap.NewMap to /Game/2DSideScrollerBP/UEDPIE_0_NewMap.NewMap (0.004564s)
+[2017.08.25-11.17.50:040][297]LogInit: XAudio2 using 'Speakers/Headphones(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.25-11.17.50:099][297]LogInit: FAudioDevice initialized.
+[2017.08.25-11.17.50:163][297]LogLoad: Game class is 'RunGameMode_C'
+[2017.08.25-11.17.50:164][297]LogWorld: Bringing World /Game/2DSideScrollerBP/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.08.25-20.17.50
+[2017.08.25-11.17.50:165][297]LogWorld: Bringing up level for play took: 0.001203
+[2017.08.25-11.17.50:229][297]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2017.08.25-11.17.50:298][297]PIE: /Game/2DSideScrollerBP/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.371
+[2017.08.25-11.17.50:325][297]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.08.25-11.17.53:597][406]Cmd: RestartLevel
+[2017.08.25-11.17.53:626][407]LogNet: Browse: /Game/2DSideScrollerBP/NewMap?restart
+[2017.08.25-11.17.53:655][407]LogLoad: LoadMap: /Game/2DSideScrollerBP/NewMap
+[2017.08.25-11.17.53:693][407]Cmd: MEM
+[2017.08.25-11.17.53:723][407]LogMemory: Platform Memory Stats for Windows
+[2017.08.25-11.17.53:723][407]LogMemory: Process Physical Memory: 1353.83 MB used, 1353.83 MB peak
+[2017.08.25-11.17.53:723][407]LogMemory: Process Virtual Memory: 2040.91 MB used, 2044.79 MB peak
+[2017.08.25-11.17.53:723][407]LogMemory: Physical Memory: 7210.07 MB used,  9065.04 MB free, 16275.11 MB total
+[2017.08.25-11.17.53:723][407]LogMemory: Virtual Memory: 2812.45 MB used,  9065.04 MB free, 134217728.00 MB total
+[2017.08.25-11.17.53:723][407]LogMemory: 
+[2017.08.25-11.17.53:723][407]Allocator Stats for TBB: (not implemented)
+[2017.08.25-11.17.53:723][407]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/UEDPIE_0_NewMap
+[2017.08.25-11.17.53:725][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002073s)
+[2017.08.25-11.17.53:726][407]LogAIModule: Creating AISystem for world NewMap
+[2017.08.25-11.17.53:726][407]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2017.08.25-11.17.53:727][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/NewMap.NewMap to /Game/2DSideScrollerBP/UEDPIE_0_NewMap.NewMap (0.003751s)
+[2017.08.25-11.17.53:727][407]LogLoad: Game class is 'RunGameMode_C'
+[2017.08.25-11.17.53:735][407]LogWorld: Bringing World /Game/2DSideScrollerBP/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.08.25-20.17.53
+[2017.08.25-11.17.53:735][407]LogWorld: Bringing up level for play took: 0.007593
+[2017.08.25-11.17.53:743][407]LogLoad: Took 0.087440 seconds to LoadMap(/Game/2DSideScrollerBP/UEDPIE_0_NewMap)
+[2017.08.25-11.18.09:514][179]BlueprintLog: New page: RunCharacter 컴파일
+[2017.08.25-11.18.10:851][219]LogSavePackage: Save=105.16ms
+[2017.08.25-11.18.10:851][219]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/RunCharacterF8535EDF4F926B92F6B01F901CE7F652.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/RunCharacter.uasset'
+[2017.08.25-11.18.10:858][219]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/RunCharacter.uasset
+[2017.08.25-11.18.12:294][304]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.25-11.18.12:313][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.25-11.18.12:313][304]PIE: New page: PIE 세션: NewMap (2017. 8. 26. 오전 5:18:12)
+[2017.08.25-11.18.12:313][304]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/UEDPIE_0_NewMap
+[2017.08.25-11.18.12:315][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002223s)
+[2017.08.25-11.18.12:316][304]LogAIModule: Creating AISystem for world NewMap
+[2017.08.25-11.18.12:316][304]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2017.08.25-11.18.12:317][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/NewMap.NewMap to /Game/2DSideScrollerBP/UEDPIE_0_NewMap.NewMap (0.003712s)
+[2017.08.25-11.18.12:361][304]LogInit: XAudio2 using 'Speakers/Headphones(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.25-11.18.12:431][304]LogInit: FAudioDevice initialized.
+[2017.08.25-11.18.12:479][304]LogLoad: Game class is 'RunGameMode_C'
+[2017.08.25-11.18.12:481][304]LogWorld: Bringing World /Game/2DSideScrollerBP/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.08.25-20.18.12
+[2017.08.25-11.18.12:481][304]LogWorld: Bringing up level for play took: 0.001674
+[2017.08.25-11.18.12:493][304]PIE: /Game/2DSideScrollerBP/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.176
+[2017.08.25-11.18.57:908][882]BlueprintLog: New page: RunCharacter 컴파일
+[2017.08.25-11.18.59:203][925]LogSavePackage: Save=97.71ms
+[2017.08.25-11.18.59:203][925]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/RunCharacterCAD8D78342B8FF98865767847C788BB5.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/RunCharacter.uasset'
+[2017.08.25-11.18.59:209][925]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/RunCharacter.uasset
+[2017.08.25-11.18.59:725][955]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.25-11.18.59:741][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.25-11.18.59:741][955]PIE: New page: PIE 세션: NewMap (2017. 8. 26. 오전 5:18:59)
+[2017.08.25-11.18.59:741][955]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/UEDPIE_0_NewMap
+[2017.08.25-11.18.59:743][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002055s)
+[2017.08.25-11.18.59:744][955]LogAIModule: Creating AISystem for world NewMap
+[2017.08.25-11.18.59:745][955]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2017.08.25-11.18.59:745][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/NewMap.NewMap to /Game/2DSideScrollerBP/UEDPIE_0_NewMap.NewMap (0.003784s)
+[2017.08.25-11.18.59:783][955]LogInit: XAudio2 using 'Speakers/Headphones(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.25-11.18.59:843][955]LogInit: FAudioDevice initialized.
+[2017.08.25-11.18.59:891][955]LogLoad: Game class is 'RunGameMode_C'
+[2017.08.25-11.18.59:893][955]LogWorld: Bringing World /Game/2DSideScrollerBP/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.08.25-20.18.59
+[2017.08.25-11.18.59:894][955]LogWorld: Bringing up level for play took: 0.001644
+[2017.08.25-11.18.59:907][955]PIE: /Game/2DSideScrollerBP/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: -0.762
+[2017.08.25-11.19.06:698][280]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.08.25-11.19.06:717][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.25-11.19.06:717][280]PIE: New page: PIE 세션: NewMap (2017. 8. 26. 오전 5:19:06)
+[2017.08.25-11.19.06:718][280]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/UEDPIE_0_NewMap
+[2017.08.25-11.19.06:720][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002368s)
+[2017.08.25-11.19.06:721][280]LogAIModule: Creating AISystem for world NewMap
+[2017.08.25-11.19.06:721][280]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2017.08.25-11.19.06:722][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/NewMap.NewMap to /Game/2DSideScrollerBP/UEDPIE_0_NewMap.NewMap (0.004002s)
+[2017.08.25-11.19.06:763][280]LogInit: XAudio2 using 'Speakers/Headphones(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.25-11.19.06:820][280]LogInit: FAudioDevice initialized.
+[2017.08.25-11.19.06:876][280]LogLoad: Game class is 'RunGameMode_C'
+[2017.08.25-11.19.06:877][280]LogWorld: Bringing World /Game/2DSideScrollerBP/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.08.25-20.19.06
+[2017.08.25-11.19.06:878][280]LogWorld: Bringing up level for play took: 0.001224
+[2017.08.25-11.19.06:889][280]PIE: /Game/2DSideScrollerBP/UEDPIE_0_NewMap 에 대한 에디터에서 플레이 시작 시간: 0.22
+[2017.08.25-11.19.09:309][361]Cmd: RestartLevel
+[2017.08.25-11.19.09:338][362]LogNet: Browse: /Game/2DSideScrollerBP/NewMap?restart
+[2017.08.25-11.19.09:369][362]LogLoad: LoadMap: /Game/2DSideScrollerBP/NewMap
+[2017.08.25-11.19.09:396][362]Cmd: MEM
+[2017.08.25-11.19.09:422][362]LogMemory: Platform Memory Stats for Windows
+[2017.08.25-11.19.09:423][362]LogMemory: Process Physical Memory: 1405.34 MB used, 1408.32 MB peak
+[2017.08.25-11.19.09:423][362]LogMemory: Process Virtual Memory: 1911.52 MB used, 2145.50 MB peak
+[2017.08.25-11.19.09:423][362]LogMemory: Physical Memory: 7261.22 MB used,  9013.88 MB free, 16275.11 MB total
+[2017.08.25-11.19.09:423][362]LogMemory: Virtual Memory: 2700.95 MB used,  9013.88 MB free, 134217728.00 MB total
+[2017.08.25-11.19.09:423][362]LogMemory: 
+[2017.08.25-11.19.09:423][362]Allocator Stats for TBB: (not implemented)
+[2017.08.25-11.19.09:423][362]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/UEDPIE_0_NewMap
+[2017.08.25-11.19.09:425][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002076s)
+[2017.08.25-11.19.09:426][362]LogAIModule: Creating AISystem for world NewMap
+[2017.08.25-11.19.09:426][362]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2017.08.25-11.19.09:426][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/NewMap.NewMap to /Game/2DSideScrollerBP/UEDPIE_0_NewMap.NewMap (0.003521s)
+[2017.08.25-11.19.09:426][362]LogLoad: Game class is 'RunGameMode_C'
+[2017.08.25-11.19.09:429][362]LogWorld: Bringing World /Game/2DSideScrollerBP/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.08.25-20.19.09
+[2017.08.25-11.19.09:429][362]LogWorld: Bringing up level for play took: 0.002375
+[2017.08.25-11.19.09:437][362]LogLoad: Took 0.068630 seconds to LoadMap(/Game/2DSideScrollerBP/UEDPIE_0_NewMap)
+[2017.08.25-11.19.09:790][373]LogBlueprintUserMessages: [RunCharacter_C_0] Hello
+[2017.08.25-11.19.09:973][380]LogBlueprintUserMessages: [RunCharacter_C_0] Hello
+[2017.08.25-11.19.10:174][387]LogBlueprintUserMessages: [RunCharacter_C_0] Hello
+[2017.08.25-11.19.10:347][393]LogBlueprintUserMessages: [RunCharacter_C_0] Hello
+[2017.08.25-11.20.04:599][499]LogSavePackage: Save=100.59ms
+[2017.08.25-11.20.04:599][499]LogSavePackage: Moving '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Saved/RunCharacter9A02FA994960735E1CB841B3D4213269.tmp' to '../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/RunCharacter.uasset'
+[2017.08.25-11.20.04:605][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dsm2016/Documents/Unreal Projects/G존/Content/2DSideScrollerBP/Blueprints/RunCharacter.uasset
+[2017.08.25-11.20.05:251][538]BlueprintLog: New page: RunCharacter 컴파일
+[2017.08.25-11.20.10:620][812]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:289 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2017.08.25-11.20.10:625][812]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
