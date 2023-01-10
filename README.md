@@ -4,7 +4,7 @@
 
 자세한 사항(티스토리): https://kyeoungju.tistory.com/2
 
-<Directory File Structure>
+- Directory File Structure
 
 ┌ Yageuncheonjae - UnrealProject  
-└ WorkFolder - Portfolio contents (effect, sound) worked [at the time of Daejeon G Zone Game Jam]  
+└ WorkFolder - Portfolio contents (effect, sound etc) worked [at the time of Daejeon G Zone Game Jam]  
