@@ -6,7 +6,6 @@
   
   
   
-- Directory File Structure
-
+- Directory File Structure  
 ┌ Yageuncheonjae - UnrealProject  
 └ WorkFolder - Portfolio contents (effect, sound etc) worked [at the time of Daejeon G Zone Game Jam]  
