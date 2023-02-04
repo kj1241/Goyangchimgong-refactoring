@@ -6,6 +6,6 @@
   
  <mark style="background-color:orange">**자세한 사항(티스토리): https://kyeoungju.tistory.com/2**  </mark> 
  
- Directory File Structure
+ Directory File Structure  
 ┌ Yageuncheonjae - UnrealProject  
-└ WorkFolder - game jam work
+└ WorkFolder - game jam work  
